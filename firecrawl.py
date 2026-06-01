@@ -38,58 +38,6 @@ def is_valid(html):
 
     return len(html) > 5000
 
-
-# ----------------------------
-# Bright Data
-# ----------------------------
-print("\n--- Bright Data Tests ---\n")
-
-for target in URLS:
-    for i in range(REQUESTS_PER_URL):
-
-        start = time.time()
-
-        try:
-            r = requests.post(
-                "https://api.brightdata.com/request",
-                headers={
-                    "Authorization": f"Bearer {YOUR_BRIGHTDATA_API_KEY}",
-                    "Content-Type": "application/json"
-                },
-                json={
-                    "zone": "unblocker",
-                    "url": target["url"],
-                    "format": "raw"
-                },
-                timeout=60
-            )
-
-            html = r.text
-            elapsed = round((time.time() - start) * 1000, 2)
-
-            valid = is_valid(html)
-
-            status = r.status_code
-
-        except Exception as e:
-            html = ""
-            elapsed = 0
-            valid = False
-            status = f"ERROR: {type(e)}"
-
-        results.append([
-            "BrightData",
-            target["name"],
-            i + 1,
-            status,
-            valid,
-            elapsed
-        ])
-
-        print(f"BrightData | {target['name']} | #{i+1} | {status} | {valid} | {elapsed}ms")
-
-        time.sleep(0.5 + random.uniform(0, 0.2))
-
 # ----------------------------
 # Firecrawl
 # ----------------------------
@@ -144,63 +92,13 @@ for target in URLS:
 
         print(f"Firecrawl | {target['name']} | #{i+1} | {status} | {valid} | {elapsed}ms")
 
-        time.sleep(0.5 + random.uniform(0, 0.2))
-
-
-# ----------------------------
-# ZenRows
-# ----------------------------
-print("\n--- ZenRows Tests ---\n")
-
-for target in URLS:
-    for i in range(REQUESTS_PER_URL):
-
-        start = time.time()
-
-        try:
-            r = requests.get(
-                "https://api.zenrows.com/v1/",
-                params={
-                    "url": target["url"],
-                    "apikey": YOUR_ZENROWS_API_KEY,
-                    "mode": "auto"
-                   # "js_render": "true",
-                   # "premium_proxy": "true"
-                },
-                timeout=60
-            )
-
-            html = r.text
-            elapsed = round((time.time() - start) * 1000, 2)
-
-            valid = is_valid(html)
-
-            status = r.status_code
-
-        except Exception as e:
-            html = ""
-            elapsed = 0
-            valid = False
-            status = f"ERROR: {type(e)}"
-
-        results.append([
-            "ZenRows",
-            target["name"],
-            i + 1,
-            status,
-            valid,
-            elapsed
-        ])
-
-        print(f"ZenRows | {target['name']} | #{i+1} | {status} | {valid} | {elapsed}ms")
-
-        time.sleep(0.5 + random.uniform(0, 0.2))
+        time.sleep(0.5)
 
 
 # ----------------------------
 # Save CSV
 # ----------------------------
-with open("benchmark_results.csv", "w", newline="") as f:
+with open("firecrawl_benchmark_results.csv", "w", newline="") as f:
     writer = csv.writer(f)
     writer.writerow([
         "platform",
