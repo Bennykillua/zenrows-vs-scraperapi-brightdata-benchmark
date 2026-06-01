@@ -1,6 +1,8 @@
+
+
 from firecrawl import Firecrawl
 
-firecrawl = Firecrawl(api_key="fc-YOUR-API-KEY")
+firecrawl = Firecrawl(api_key=YOUR_FIRECRAWL_API_KEY)
 
 
 # Scrape a website:
@@ -22,7 +24,7 @@ import requests
 zr = requests.get(
     "https://api.zenrows.com/v1/",
     params={
-        "apikey": "cfb057cbc15a3617a8dfcb525806ccbbdfe61f94",
+        "apikey": YOUR_ZENROWS_API_KEY,
         "url": "https://www.bbc.com/news/technology",
         "mode": "auto"
     }
@@ -39,9 +41,9 @@ import requests
 
 bd = requests.post(
     "https://api.brightdata.com/request",
-    headers={"Authorization": "Bearer a988dc79-4136-44dd-ae31-d6c83e9c73a8"},
+    headers={"Authorization": f"Bearer {YOUR_BRIGHTDATA_API_KEY}"},
     json={
-        "zone": "web_unlocker1",
+        "zone": "unblocker",
         "url": "https://www.bbc.com/news/technology",
         "format": "raw"
     }
