@@ -1,0 +1,701 @@
+platform,target,request_num,status_code,valid,response_time_ms
+ZenRows,Amazon,1,200,True,9817.56
+ZenRows,Amazon,2,200,True,7919.31
+ZenRows,Amazon,3,200,True,24922.32
+ZenRows,Amazon,4,200,True,10266.01
+ZenRows,Amazon,5,200,True,6150.64
+ZenRows,Amazon,6,200,True,14441.14
+ZenRows,Amazon,7,200,True,4971.35
+ZenRows,Amazon,8,200,True,22006.95
+ZenRows,Amazon,9,200,True,25121.61
+ZenRows,Amazon,10,200,True,29220.65
+ZenRows,Amazon,11,200,True,35818.83
+ZenRows,Amazon,12,200,True,4684.12
+ZenRows,Amazon,13,200,True,29752.8
+ZenRows,Amazon,14,200,True,29096.96
+ZenRows,Amazon,15,200,True,39418.8
+ZenRows,Amazon,16,200,True,5457.49
+ZenRows,Amazon,17,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+ZenRows,Amazon,18,200,True,4465.13
+ZenRows,Amazon,19,200,True,59915.79
+ZenRows,Amazon,20,200,True,4984.34
+ZenRows,Amazon,21,200,True,16457.31
+ZenRows,Amazon,22,200,True,8365.78
+ZenRows,Amazon,23,200,True,7506.7
+ZenRows,Amazon,24,200,True,53647.55
+ZenRows,Amazon,25,200,True,7813.05
+ZenRows,Amazon,26,200,True,22340.25
+ZenRows,Amazon,27,200,True,16709.36
+ZenRows,Amazon,28,200,True,18948.96
+ZenRows,Amazon,29,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+ZenRows,Amazon,30,200,True,18055.63
+ZenRows,Amazon,31,200,True,29400.15
+ZenRows,Amazon,32,200,True,43478.35
+ZenRows,Amazon,33,200,True,18004.78
+ZenRows,Amazon,34,200,True,55931.87
+ZenRows,Amazon,35,200,True,2611.21
+ZenRows,Amazon,36,200,True,5356.86
+ZenRows,Amazon,37,200,True,2622.77
+ZenRows,Amazon,38,200,True,9386.32
+ZenRows,Amazon,39,200,True,8609.01
+ZenRows,Amazon,40,200,True,22792.32
+ZenRows,Amazon,41,200,True,17607.32
+ZenRows,Amazon,42,200,True,4653.94
+ZenRows,Amazon,43,200,True,4710.29
+ZenRows,Amazon,44,200,True,2661.38
+ZenRows,Amazon,45,200,True,27712.38
+ZenRows,Amazon,46,200,True,8096.65
+ZenRows,Amazon,47,200,True,11934.8
+ZenRows,Amazon,48,200,True,29507.4
+ZenRows,Amazon,49,200,True,5218.21
+ZenRows,Amazon,50,200,True,16956.58
+ZenRows,Amazon,51,200,True,9064.28
+ZenRows,Amazon,52,200,True,6794.52
+ZenRows,Amazon,53,200,True,5360.31
+ZenRows,Amazon,54,200,True,5414.15
+ZenRows,Amazon,55,200,True,17527.8
+ZenRows,Amazon,56,200,True,22820.46
+ZenRows,Amazon,57,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+ZenRows,Amazon,58,200,True,33556.32
+ZenRows,Amazon,59,200,True,12100.58
+ZenRows,Amazon,60,200,True,59356.17
+ZenRows,Amazon,61,200,True,23999.1
+ZenRows,Amazon,62,200,True,12260.49
+ZenRows,Amazon,63,200,True,33770.6
+ZenRows,Amazon,64,200,True,7135.5
+ZenRows,Amazon,65,200,True,7652.98
+ZenRows,Amazon,66,200,True,17616.24
+ZenRows,Amazon,67,200,True,39892.66
+ZenRows,Amazon,68,200,True,6789.67
+ZenRows,Amazon,69,200,True,5355.12
+ZenRows,Amazon,70,200,True,10798.41
+ZenRows,Amazon,71,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+ZenRows,Amazon,72,200,True,13267.41
+ZenRows,Amazon,73,200,True,29722.29
+ZenRows,Amazon,74,200,True,13482.91
+ZenRows,Amazon,75,200,True,18537.29
+ZenRows,Amazon,76,200,True,5114.07
+ZenRows,Amazon,77,200,True,5298.66
+ZenRows,Amazon,78,200,True,5723.36
+ZenRows,Amazon,79,200,True,22353.1
+ZenRows,Amazon,80,200,True,18209.77
+ZenRows,Amazon,81,200,True,42152.52
+ZenRows,Amazon,82,200,True,9394.31
+ZenRows,Amazon,83,200,True,9591.11
+ZenRows,Amazon,84,200,True,43356.47
+ZenRows,Amazon,85,200,True,6936.61
+ZenRows,Amazon,86,200,True,6445.85
+ZenRows,Amazon,87,200,True,6854.57
+ZenRows,Amazon,88,200,True,6425.14
+ZenRows,Amazon,89,200,True,5951.32
+ZenRows,Amazon,90,200,True,20507.41
+ZenRows,Amazon,91,200,True,7717.34
+ZenRows,Amazon,92,200,True,7750.83
+ZenRows,Amazon,93,200,True,9934.8
+ZenRows,Amazon,94,200,True,7414.41
+ZenRows,Amazon,95,200,True,30902.65
+ZenRows,Amazon,96,200,True,15801.2
+ZenRows,Amazon,97,200,True,5369.3
+ZenRows,Amazon,98,200,True,8716.26
+ZenRows,Amazon,99,200,True,6409.17
+ZenRows,Amazon,100,200,True,24812.32
+ZenRows,Glassdoor,1,200,False,5736.38
+ZenRows,Glassdoor,2,200,False,7873.72
+ZenRows,Glassdoor,3,200,False,6043.14
+ZenRows,Glassdoor,4,200,False,9863.6
+ZenRows,Glassdoor,5,200,False,6010.07
+ZenRows,Glassdoor,6,200,False,9829.62
+ZenRows,Glassdoor,7,200,False,8698.63
+ZenRows,Glassdoor,8,200,False,4832.89
+ZenRows,Glassdoor,9,200,False,6427.57
+ZenRows,Glassdoor,10,200,False,5417.45
+ZenRows,Glassdoor,11,200,False,5438.65
+ZenRows,Glassdoor,12,200,False,7209.11
+ZenRows,Glassdoor,13,200,False,7533.9
+ZenRows,Glassdoor,14,200,False,5525.76
+ZenRows,Glassdoor,15,200,False,7173.16
+ZenRows,Glassdoor,16,200,False,4969.46
+ZenRows,Glassdoor,17,200,False,8537.9
+ZenRows,Glassdoor,18,200,False,6656.85
+ZenRows,Glassdoor,19,200,False,15049.24
+ZenRows,Glassdoor,20,200,False,5116.74
+ZenRows,Glassdoor,21,200,False,10747.25
+ZenRows,Glassdoor,22,200,False,7707.07
+ZenRows,Glassdoor,23,200,False,6455.51
+ZenRows,Glassdoor,24,200,False,7642.16
+ZenRows,Glassdoor,25,200,False,5430.52
+ZenRows,Glassdoor,26,200,False,7368.82
+ZenRows,Glassdoor,27,404,False,17401.46
+ZenRows,Glassdoor,28,200,False,9348.2
+ZenRows,Glassdoor,29,200,True,11449.87
+ZenRows,Glassdoor,30,200,False,17723.71
+ZenRows,Glassdoor,31,200,False,14171.09
+ZenRows,Glassdoor,32,200,False,6346.16
+ZenRows,Glassdoor,33,200,False,7085.18
+ZenRows,Glassdoor,34,200,False,5030.52
+ZenRows,Glassdoor,35,200,False,7346.72
+ZenRows,Glassdoor,36,200,False,6251.63
+ZenRows,Glassdoor,37,200,False,7109.07
+ZenRows,Glassdoor,38,200,False,5938.8
+ZenRows,Glassdoor,39,200,False,8254.09
+ZenRows,Glassdoor,40,200,False,5468.24
+ZenRows,Glassdoor,41,200,False,5399.4
+ZenRows,Glassdoor,42,200,False,7273.01
+ZenRows,Glassdoor,43,200,False,8046.67
+ZenRows,Glassdoor,44,200,False,6612.02
+ZenRows,Glassdoor,45,200,False,5966.94
+ZenRows,Glassdoor,46,200,False,5542.37
+ZenRows,Glassdoor,47,200,False,5567.82
+ZenRows,Glassdoor,48,200,False,9525.47
+ZenRows,Glassdoor,49,200,False,6537.0
+ZenRows,Glassdoor,50,200,False,8009.52
+ZenRows,Glassdoor,51,200,False,5537.5
+ZenRows,Glassdoor,52,200,False,10933.57
+ZenRows,Glassdoor,53,200,False,5556.72
+ZenRows,Glassdoor,54,200,False,9678.09
+ZenRows,Glassdoor,55,200,False,9789.24
+ZenRows,Glassdoor,56,200,False,8639.01
+ZenRows,Glassdoor,57,200,False,13382.7
+ZenRows,Glassdoor,58,200,False,6930.6
+ZenRows,Glassdoor,59,200,False,5647.31
+ZenRows,Glassdoor,60,200,False,9447.53
+ZenRows,Glassdoor,61,200,False,8395.68
+ZenRows,Glassdoor,62,200,False,9291.1
+ZenRows,Glassdoor,63,200,False,7654.18
+ZenRows,Glassdoor,64,200,False,5482.32
+ZenRows,Glassdoor,65,200,False,6212.48
+ZenRows,Glassdoor,66,200,False,5898.33
+ZenRows,Glassdoor,67,200,False,16611.03
+ZenRows,Glassdoor,68,200,False,7875.69
+ZenRows,Glassdoor,69,200,False,18591.01
+ZenRows,Glassdoor,70,200,False,9422.55
+ZenRows,Glassdoor,71,200,False,10477.76
+ZenRows,Glassdoor,72,200,False,4488.5
+ZenRows,Glassdoor,73,200,False,7359.89
+ZenRows,Glassdoor,74,200,False,9077.31
+ZenRows,Glassdoor,75,200,False,12297.89
+ZenRows,Glassdoor,76,200,False,16281.8
+ZenRows,Glassdoor,77,200,False,11242.89
+ZenRows,Glassdoor,78,200,False,6419.74
+ZenRows,Glassdoor,79,200,False,8274.52
+ZenRows,Glassdoor,80,200,False,6233.66
+ZenRows,Glassdoor,81,200,False,7385.66
+ZenRows,Glassdoor,82,200,False,12555.08
+ZenRows,Glassdoor,83,200,False,8012.0
+ZenRows,Glassdoor,84,200,False,6558.4
+ZenRows,Glassdoor,85,200,False,8483.47
+ZenRows,Glassdoor,86,200,False,6055.87
+ZenRows,Glassdoor,87,200,False,10480.89
+ZenRows,Glassdoor,88,200,False,45786.86
+ZenRows,Glassdoor,89,200,False,9215.57
+ZenRows,Glassdoor,90,200,False,15000.65
+ZenRows,Glassdoor,91,200,False,9231.39
+ZenRows,Glassdoor,92,200,False,5479.44
+ZenRows,Glassdoor,93,200,False,11903.84
+ZenRows,Glassdoor,94,200,False,6148.87
+ZenRows,Glassdoor,95,200,False,10368.02
+ZenRows,Glassdoor,96,200,False,6358.25
+ZenRows,Glassdoor,97,200,False,8195.99
+ZenRows,Glassdoor,98,200,False,8604.64
+ZenRows,Glassdoor,99,200,False,8658.91
+ZenRows,Glassdoor,100,200,False,11587.65
+ZenRows,Google,1,200,False,37308.96
+ZenRows,Google,2,200,False,12047.28
+ZenRows,Google,3,200,False,6064.72
+ZenRows,Google,4,200,False,17219.89
+ZenRows,Google,5,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+ZenRows,Google,6,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+ZenRows,Google,7,200,False,26878.11
+ZenRows,Google,8,200,True,14526.52
+ZenRows,Google,9,200,False,11571.55
+ZenRows,Google,10,200,True,50584.0
+ZenRows,Google,11,200,False,8445.66
+ZenRows,Google,12,200,True,5305.62
+ZenRows,Google,13,200,False,47909.21
+ZenRows,Google,14,200,False,27869.13
+ZenRows,Google,15,200,True,6944.01
+ZenRows,Google,16,200,False,30824.8
+ZenRows,Google,17,200,False,22306.16
+ZenRows,Google,18,200,True,11218.34
+ZenRows,Google,19,200,True,21052.54
+ZenRows,Google,20,200,False,12134.49
+ZenRows,Google,21,200,False,56177.37
+ZenRows,Google,22,200,False,33208.68
+ZenRows,Google,23,200,False,29035.45
+ZenRows,Google,24,200,False,54859.19
+ZenRows,Google,25,200,True,17072.91
+ZenRows,Google,26,200,False,15946.52
+ZenRows,Google,27,200,False,38634.93
+ZenRows,Google,28,200,False,35562.11
+ZenRows,Google,29,200,False,7470.91
+ZenRows,Google,30,200,False,6763.21
+ZenRows,Google,31,200,False,44163.99
+ZenRows,Google,32,200,False,42351.95
+ZenRows,Google,33,200,False,24092.96
+ZenRows,Google,34,200,False,58881.77
+ZenRows,Google,35,200,True,6635.85
+ZenRows,Google,36,200,False,35986.06
+ZenRows,Google,37,200,False,13882.98
+ZenRows,Google,38,200,False,7080.1
+ZenRows,Google,39,200,False,49184.18
+ZenRows,Google,40,200,False,5910.79
+ZenRows,Google,41,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+ZenRows,Google,42,200,False,17862.72
+ZenRows,Google,43,200,False,12883.81
+ZenRows,Google,44,200,False,12852.28
+ZenRows,Google,45,200,False,18263.51
+ZenRows,Google,46,200,False,6851.19
+ZenRows,Google,47,200,False,30991.99
+ZenRows,Google,48,200,True,5432.44
+ZenRows,Google,49,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+ZenRows,Google,50,200,True,26942.47
+ZenRows,Google,51,200,False,19441.75
+ZenRows,Google,52,200,True,13454.58
+ZenRows,Google,53,200,False,13678.69
+ZenRows,Google,54,200,False,11786.15
+ZenRows,Google,55,200,False,35130.13
+ZenRows,Google,56,200,False,42001.09
+ZenRows,Google,57,200,True,8255.88
+ZenRows,Google,58,200,False,14054.66
+ZenRows,Google,59,200,False,10294.43
+ZenRows,Google,60,200,False,28454.88
+ZenRows,Google,61,200,False,31372.3
+ZenRows,Google,62,200,False,8488.99
+ZenRows,Google,63,200,False,10285.71
+ZenRows,Google,64,200,False,6263.05
+ZenRows,Google,65,200,False,6419.21
+ZenRows,Google,66,200,False,12159.07
+ZenRows,Google,67,200,False,57011.3
+ZenRows,Google,68,200,False,17488.36
+ZenRows,Google,69,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+ZenRows,Google,70,200,False,15886.89
+ZenRows,Google,71,200,False,9834.79
+ZenRows,Google,72,200,False,25708.7
+ZenRows,Google,73,200,False,7216.21
+ZenRows,Google,74,200,False,25070.82
+ZenRows,Google,75,200,True,9794.97
+ZenRows,Google,76,200,False,32772.95
+ZenRows,Google,77,200,False,7007.53
+ZenRows,Google,78,200,False,35232.92
+ZenRows,Google,79,200,False,6376.35
+ZenRows,Google,80,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+ZenRows,Google,81,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+ZenRows,Google,82,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+ZenRows,Google,83,200,False,9728.99
+ZenRows,Google,84,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+ZenRows,Google,85,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+ZenRows,Google,86,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+ZenRows,Google,87,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+ZenRows,Google,88,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+ZenRows,Google,89,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+ZenRows,Google,90,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+ZenRows,Google,91,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+ZenRows,Google,92,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+ZenRows,Google,93,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+ZenRows,Google,94,200,False,55653.53
+ZenRows,Google,95,200,False,11214.57
+ZenRows,Google,96,200,False,26111.02
+ZenRows,Google,97,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+ZenRows,Google,98,200,False,5175.48
+ZenRows,Google,99,200,False,5980.09
+ZenRows,Google,100,200,False,15390.94
+ZenRows,LinkedIn,1,200,False,31941.97
+ZenRows,LinkedIn,2,200,False,17465.01
+ZenRows,LinkedIn,3,200,False,16334.64
+ZenRows,LinkedIn,4,200,False,36634.33
+ZenRows,LinkedIn,5,200,False,12774.09
+ZenRows,LinkedIn,6,200,False,14504.49
+ZenRows,LinkedIn,7,200,False,23098.16
+ZenRows,LinkedIn,8,200,False,19881.09
+ZenRows,LinkedIn,9,200,False,31065.47
+ZenRows,LinkedIn,10,200,False,20745.07
+ZenRows,LinkedIn,11,200,False,13716.15
+ZenRows,LinkedIn,12,200,False,33784.84
+ZenRows,LinkedIn,13,200,False,22187.94
+ZenRows,LinkedIn,14,200,False,18169.16
+ZenRows,LinkedIn,15,200,False,13395.5
+ZenRows,LinkedIn,16,200,False,45382.03
+ZenRows,LinkedIn,17,200,False,16877.92
+ZenRows,LinkedIn,18,200,False,27567.02
+ZenRows,LinkedIn,19,200,False,15340.57
+ZenRows,LinkedIn,20,200,False,17789.7
+ZenRows,LinkedIn,21,200,False,12434.71
+ZenRows,LinkedIn,22,200,False,28392.72
+ZenRows,LinkedIn,23,200,False,15651.12
+ZenRows,LinkedIn,24,200,False,19958.3
+ZenRows,LinkedIn,25,200,False,33245.34
+ZenRows,LinkedIn,26,200,False,14083.0
+ZenRows,LinkedIn,27,200,False,10038.9
+ZenRows,LinkedIn,28,200,False,46212.22
+ZenRows,LinkedIn,29,200,False,22263.03
+ZenRows,LinkedIn,30,200,False,32129.53
+ZenRows,LinkedIn,31,200,False,14176.0
+ZenRows,LinkedIn,32,200,False,9665.97
+ZenRows,LinkedIn,33,200,False,43721.66
+ZenRows,LinkedIn,34,200,False,9527.83
+ZenRows,LinkedIn,35,200,False,24230.41
+ZenRows,LinkedIn,36,200,False,28825.1
+ZenRows,LinkedIn,37,200,False,19686.33
+ZenRows,LinkedIn,38,200,False,18794.53
+ZenRows,LinkedIn,39,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+ZenRows,LinkedIn,40,200,False,35778.35
+ZenRows,LinkedIn,41,200,False,28934.69
+ZenRows,LinkedIn,42,200,False,40126.27
+ZenRows,LinkedIn,43,200,False,20475.68
+ZenRows,LinkedIn,44,200,False,43088.59
+ZenRows,LinkedIn,45,200,False,38434.54
+ZenRows,LinkedIn,46,200,False,7539.7
+ZenRows,LinkedIn,47,200,False,36094.67
+ZenRows,LinkedIn,48,200,False,19769.35
+ZenRows,LinkedIn,49,200,False,22319.35
+ZenRows,LinkedIn,50,200,False,12704.0
+ZenRows,LinkedIn,51,200,False,44552.1
+ZenRows,LinkedIn,52,200,False,33717.48
+ZenRows,LinkedIn,53,200,False,9327.56
+ZenRows,LinkedIn,54,200,False,15936.76
+ZenRows,LinkedIn,55,200,False,33809.33
+ZenRows,LinkedIn,56,200,False,35313.75
+ZenRows,LinkedIn,57,200,False,19362.71
+ZenRows,LinkedIn,58,200,False,27741.35
+ZenRows,LinkedIn,59,200,False,22139.18
+ZenRows,LinkedIn,60,200,False,14689.92
+ZenRows,LinkedIn,61,200,False,25197.79
+ZenRows,LinkedIn,62,200,False,43989.15
+ZenRows,LinkedIn,63,200,False,17152.31
+ZenRows,LinkedIn,64,200,False,15262.17
+ZenRows,LinkedIn,65,200,False,25972.02
+ZenRows,LinkedIn,66,200,False,7394.18
+ZenRows,LinkedIn,67,200,False,22411.99
+ZenRows,LinkedIn,68,200,False,34214.68
+ZenRows,LinkedIn,69,200,False,7928.76
+ZenRows,LinkedIn,70,200,False,19197.24
+ZenRows,LinkedIn,71,200,False,10122.87
+ZenRows,LinkedIn,72,200,False,18288.76
+ZenRows,LinkedIn,73,200,False,10267.9
+ZenRows,LinkedIn,74,200,False,13073.41
+ZenRows,LinkedIn,75,200,False,19279.54
+ZenRows,LinkedIn,76,200,False,25967.16
+ZenRows,LinkedIn,77,200,False,17417.42
+ZenRows,LinkedIn,78,200,False,14853.16
+ZenRows,LinkedIn,79,200,False,17613.09
+ZenRows,LinkedIn,80,200,False,24170.18
+ZenRows,LinkedIn,81,200,False,23290.37
+ZenRows,LinkedIn,82,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+ZenRows,LinkedIn,83,200,False,28725.12
+ZenRows,LinkedIn,84,200,False,16772.16
+ZenRows,LinkedIn,85,200,False,24142.05
+ZenRows,LinkedIn,86,200,False,14736.69
+ZenRows,LinkedIn,87,200,False,15538.51
+ZenRows,LinkedIn,88,200,False,15091.37
+ZenRows,LinkedIn,89,200,False,20521.85
+ZenRows,LinkedIn,90,200,False,24908.29
+ZenRows,LinkedIn,91,200,False,16536.56
+ZenRows,LinkedIn,92,200,False,15059.69
+ZenRows,LinkedIn,93,200,False,13353.81
+ZenRows,LinkedIn,94,200,False,16886.75
+ZenRows,LinkedIn,95,200,False,25738.96
+ZenRows,LinkedIn,96,200,False,16202.64
+ZenRows,LinkedIn,97,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+ZenRows,LinkedIn,98,200,False,26300.89
+ZenRows,LinkedIn,99,200,False,38020.46
+ZenRows,LinkedIn,100,200,False,13817.46
+ZenRows,Mid-sized e-commerce site behind Cloudflare,1,200,True,2666.21
+ZenRows,Mid-sized e-commerce site behind Cloudflare,2,200,True,2549.99
+ZenRows,Mid-sized e-commerce site behind Cloudflare,3,200,True,2031.07
+ZenRows,Mid-sized e-commerce site behind Cloudflare,4,200,True,1974.56
+ZenRows,Mid-sized e-commerce site behind Cloudflare,5,200,True,2589.2
+ZenRows,Mid-sized e-commerce site behind Cloudflare,6,200,True,2138.86
+ZenRows,Mid-sized e-commerce site behind Cloudflare,7,200,True,2717.78
+ZenRows,Mid-sized e-commerce site behind Cloudflare,8,200,True,2303.2
+ZenRows,Mid-sized e-commerce site behind Cloudflare,9,200,True,2528.35
+ZenRows,Mid-sized e-commerce site behind Cloudflare,10,200,True,2578.71
+ZenRows,Mid-sized e-commerce site behind Cloudflare,11,200,True,2149.83
+ZenRows,Mid-sized e-commerce site behind Cloudflare,12,200,True,2365.48
+ZenRows,Mid-sized e-commerce site behind Cloudflare,13,200,True,2257.3
+ZenRows,Mid-sized e-commerce site behind Cloudflare,14,200,True,2411.13
+ZenRows,Mid-sized e-commerce site behind Cloudflare,15,200,True,2511.94
+ZenRows,Mid-sized e-commerce site behind Cloudflare,16,200,True,1994.09
+ZenRows,Mid-sized e-commerce site behind Cloudflare,17,200,True,5716.83
+ZenRows,Mid-sized e-commerce site behind Cloudflare,18,200,True,2426.5
+ZenRows,Mid-sized e-commerce site behind Cloudflare,19,200,True,2109.94
+ZenRows,Mid-sized e-commerce site behind Cloudflare,20,200,True,2631.73
+ZenRows,Mid-sized e-commerce site behind Cloudflare,21,200,True,2271.22
+ZenRows,Mid-sized e-commerce site behind Cloudflare,22,200,True,2566.4
+ZenRows,Mid-sized e-commerce site behind Cloudflare,23,200,True,2368.69
+ZenRows,Mid-sized e-commerce site behind Cloudflare,24,200,True,2552.01
+ZenRows,Mid-sized e-commerce site behind Cloudflare,25,200,True,2572.25
+ZenRows,Mid-sized e-commerce site behind Cloudflare,26,200,True,2694.1
+ZenRows,Mid-sized e-commerce site behind Cloudflare,27,200,True,2974.73
+ZenRows,Mid-sized e-commerce site behind Cloudflare,28,200,True,2328.18
+ZenRows,Mid-sized e-commerce site behind Cloudflare,29,200,True,2624.89
+ZenRows,Mid-sized e-commerce site behind Cloudflare,30,200,True,2225.19
+ZenRows,Mid-sized e-commerce site behind Cloudflare,31,200,True,2211.94
+ZenRows,Mid-sized e-commerce site behind Cloudflare,32,200,True,2492.66
+ZenRows,Mid-sized e-commerce site behind Cloudflare,33,200,True,2697.03
+ZenRows,Mid-sized e-commerce site behind Cloudflare,34,200,True,2260.57
+ZenRows,Mid-sized e-commerce site behind Cloudflare,35,200,True,2310.32
+ZenRows,Mid-sized e-commerce site behind Cloudflare,36,200,True,2510.71
+ZenRows,Mid-sized e-commerce site behind Cloudflare,37,200,True,2248.27
+ZenRows,Mid-sized e-commerce site behind Cloudflare,38,200,True,2551.8
+ZenRows,Mid-sized e-commerce site behind Cloudflare,39,200,True,2788.0
+ZenRows,Mid-sized e-commerce site behind Cloudflare,40,200,True,2122.25
+ZenRows,Mid-sized e-commerce site behind Cloudflare,41,200,True,2726.2
+ZenRows,Mid-sized e-commerce site behind Cloudflare,42,200,True,2099.16
+ZenRows,Mid-sized e-commerce site behind Cloudflare,43,200,True,2680.59
+ZenRows,Mid-sized e-commerce site behind Cloudflare,44,200,True,2267.64
+ZenRows,Mid-sized e-commerce site behind Cloudflare,45,200,True,2707.18
+ZenRows,Mid-sized e-commerce site behind Cloudflare,46,200,True,2184.31
+ZenRows,Mid-sized e-commerce site behind Cloudflare,47,200,True,2335.28
+ZenRows,Mid-sized e-commerce site behind Cloudflare,48,200,True,2809.15
+ZenRows,Mid-sized e-commerce site behind Cloudflare,49,200,True,2935.58
+ZenRows,Mid-sized e-commerce site behind Cloudflare,50,200,True,2665.98
+ZenRows,Mid-sized e-commerce site behind Cloudflare,51,200,True,2648.37
+ZenRows,Mid-sized e-commerce site behind Cloudflare,52,200,True,2380.97
+ZenRows,Mid-sized e-commerce site behind Cloudflare,53,200,True,2368.25
+ZenRows,Mid-sized e-commerce site behind Cloudflare,54,200,True,2305.73
+ZenRows,Mid-sized e-commerce site behind Cloudflare,55,200,True,2415.86
+ZenRows,Mid-sized e-commerce site behind Cloudflare,56,200,True,2159.46
+ZenRows,Mid-sized e-commerce site behind Cloudflare,57,200,True,2502.14
+ZenRows,Mid-sized e-commerce site behind Cloudflare,58,200,True,2219.98
+ZenRows,Mid-sized e-commerce site behind Cloudflare,59,200,True,2052.93
+ZenRows,Mid-sized e-commerce site behind Cloudflare,60,200,True,2452.3
+ZenRows,Mid-sized e-commerce site behind Cloudflare,61,200,True,1982.29
+ZenRows,Mid-sized e-commerce site behind Cloudflare,62,200,True,2501.66
+ZenRows,Mid-sized e-commerce site behind Cloudflare,63,200,True,2582.26
+ZenRows,Mid-sized e-commerce site behind Cloudflare,64,200,True,2826.43
+ZenRows,Mid-sized e-commerce site behind Cloudflare,65,200,True,2362.25
+ZenRows,Mid-sized e-commerce site behind Cloudflare,66,200,True,2031.73
+ZenRows,Mid-sized e-commerce site behind Cloudflare,67,200,True,2375.93
+ZenRows,Mid-sized e-commerce site behind Cloudflare,68,200,True,2256.35
+ZenRows,Mid-sized e-commerce site behind Cloudflare,69,200,True,2602.6
+ZenRows,Mid-sized e-commerce site behind Cloudflare,70,200,True,2495.7
+ZenRows,Mid-sized e-commerce site behind Cloudflare,71,200,True,2022.92
+ZenRows,Mid-sized e-commerce site behind Cloudflare,72,200,True,2192.81
+ZenRows,Mid-sized e-commerce site behind Cloudflare,73,200,True,2223.93
+ZenRows,Mid-sized e-commerce site behind Cloudflare,74,200,True,2446.25
+ZenRows,Mid-sized e-commerce site behind Cloudflare,75,200,True,2351.5
+ZenRows,Mid-sized e-commerce site behind Cloudflare,76,200,True,2897.2
+ZenRows,Mid-sized e-commerce site behind Cloudflare,77,200,True,2534.65
+ZenRows,Mid-sized e-commerce site behind Cloudflare,78,200,True,3551.96
+ZenRows,Mid-sized e-commerce site behind Cloudflare,79,200,True,2429.44
+ZenRows,Mid-sized e-commerce site behind Cloudflare,80,200,True,2312.87
+ZenRows,Mid-sized e-commerce site behind Cloudflare,81,200,True,2407.96
+ZenRows,Mid-sized e-commerce site behind Cloudflare,82,200,True,2317.07
+ZenRows,Mid-sized e-commerce site behind Cloudflare,83,200,True,2913.77
+ZenRows,Mid-sized e-commerce site behind Cloudflare,84,200,True,3113.6
+ZenRows,Mid-sized e-commerce site behind Cloudflare,85,200,True,2604.61
+ZenRows,Mid-sized e-commerce site behind Cloudflare,86,200,True,2861.34
+ZenRows,Mid-sized e-commerce site behind Cloudflare,87,200,True,3614.99
+ZenRows,Mid-sized e-commerce site behind Cloudflare,88,200,True,2107.28
+ZenRows,Mid-sized e-commerce site behind Cloudflare,89,200,True,4510.98
+ZenRows,Mid-sized e-commerce site behind Cloudflare,90,200,True,3151.26
+ZenRows,Mid-sized e-commerce site behind Cloudflare,91,200,True,2996.08
+ZenRows,Mid-sized e-commerce site behind Cloudflare,92,200,True,5299.34
+ZenRows,Mid-sized e-commerce site behind Cloudflare,93,200,True,2158.78
+ZenRows,Mid-sized e-commerce site behind Cloudflare,94,200,True,2273.1
+ZenRows,Mid-sized e-commerce site behind Cloudflare,95,200,True,4606.31
+ZenRows,Mid-sized e-commerce site behind Cloudflare,96,200,True,2229.06
+ZenRows,Mid-sized e-commerce site behind Cloudflare,97,200,True,2485.94
+ZenRows,Mid-sized e-commerce site behind Cloudflare,98,200,True,4481.13
+ZenRows,Mid-sized e-commerce site behind Cloudflare,99,200,True,2750.97
+ZenRows,Mid-sized e-commerce site behind Cloudflare,100,200,True,2669.55
+ZenRows,Zillow real estate listing,1,200,False,5260.24
+ZenRows,Zillow real estate listing,2,200,False,5657.01
+ZenRows,Zillow real estate listing,3,200,False,9918.27
+ZenRows,Zillow real estate listing,4,200,False,6108.19
+ZenRows,Zillow real estate listing,5,200,False,11163.47
+ZenRows,Zillow real estate listing,6,200,False,16508.21
+ZenRows,Zillow real estate listing,7,200,False,6312.7
+ZenRows,Zillow real estate listing,8,200,False,6674.89
+ZenRows,Zillow real estate listing,9,200,False,5510.84
+ZenRows,Zillow real estate listing,10,200,False,5456.04
+ZenRows,Zillow real estate listing,11,200,False,17279.7
+ZenRows,Zillow real estate listing,12,200,False,41418.87
+ZenRows,Zillow real estate listing,13,200,False,3525.65
+ZenRows,Zillow real estate listing,14,200,False,21295.63
+ZenRows,Zillow real estate listing,15,200,False,42421.61
+ZenRows,Zillow real estate listing,16,200,False,38270.55
+ZenRows,Zillow real estate listing,17,200,False,11576.42
+ZenRows,Zillow real estate listing,18,200,False,6813.89
+ZenRows,Zillow real estate listing,19,200,False,6440.74
+ZenRows,Zillow real estate listing,20,200,False,6036.27
+ZenRows,Zillow real estate listing,21,200,False,15011.33
+ZenRows,Zillow real estate listing,22,200,False,13929.61
+ZenRows,Zillow real estate listing,23,200,False,13305.05
+ZenRows,Zillow real estate listing,24,200,False,7270.51
+ZenRows,Zillow real estate listing,25,200,False,22319.83
+ZenRows,Zillow real estate listing,26,200,False,4801.88
+ZenRows,Zillow real estate listing,27,200,False,6529.37
+ZenRows,Zillow real estate listing,28,200,False,5116.94
+ZenRows,Zillow real estate listing,29,200,False,7861.22
+ZenRows,Zillow real estate listing,30,200,False,11529.61
+ZenRows,Zillow real estate listing,31,200,False,4789.75
+ZenRows,Zillow real estate listing,32,200,False,7197.08
+ZenRows,Zillow real estate listing,33,200,False,5476.11
+ZenRows,Zillow real estate listing,34,200,False,4512.59
+ZenRows,Zillow real estate listing,35,200,False,7450.03
+ZenRows,Zillow real estate listing,36,200,False,16332.33
+ZenRows,Zillow real estate listing,37,200,False,8959.45
+ZenRows,Zillow real estate listing,38,200,False,4945.16
+ZenRows,Zillow real estate listing,39,200,False,7838.67
+ZenRows,Zillow real estate listing,40,200,False,11697.36
+ZenRows,Zillow real estate listing,41,200,False,4400.22
+ZenRows,Zillow real estate listing,42,200,False,6590.41
+ZenRows,Zillow real estate listing,43,200,False,7326.67
+ZenRows,Zillow real estate listing,44,200,False,12556.32
+ZenRows,Zillow real estate listing,45,200,False,4640.21
+ZenRows,Zillow real estate listing,46,200,False,22641.17
+ZenRows,Zillow real estate listing,47,200,False,5953.43
+ZenRows,Zillow real estate listing,48,200,False,4927.32
+ZenRows,Zillow real estate listing,49,200,False,24126.39
+ZenRows,Zillow real estate listing,50,200,False,12449.41
+ZenRows,Zillow real estate listing,51,200,False,5365.82
+ZenRows,Zillow real estate listing,52,200,False,5290.78
+ZenRows,Zillow real estate listing,53,200,False,10344.02
+ZenRows,Zillow real estate listing,54,200,False,5062.09
+ZenRows,Zillow real estate listing,55,200,False,33512.27
+ZenRows,Zillow real estate listing,56,200,False,4415.46
+ZenRows,Zillow real estate listing,57,200,False,3998.12
+ZenRows,Zillow real estate listing,58,200,False,13026.94
+ZenRows,Zillow real estate listing,59,200,False,11015.15
+ZenRows,Zillow real estate listing,60,200,False,8098.93
+ZenRows,Zillow real estate listing,61,200,False,17049.93
+ZenRows,Zillow real estate listing,62,200,False,6789.88
+ZenRows,Zillow real estate listing,63,200,False,6281.23
+ZenRows,Zillow real estate listing,64,200,False,4674.51
+ZenRows,Zillow real estate listing,65,200,False,41683.33
+ZenRows,Zillow real estate listing,66,200,False,14929.85
+ZenRows,Zillow real estate listing,67,200,False,5476.05
+ZenRows,Zillow real estate listing,68,200,False,34126.0
+ZenRows,Zillow real estate listing,69,200,False,7228.72
+ZenRows,Zillow real estate listing,70,200,False,7587.22
+ZenRows,Zillow real estate listing,71,200,False,5496.24
+ZenRows,Zillow real estate listing,72,200,False,7208.7
+ZenRows,Zillow real estate listing,73,200,False,7490.35
+ZenRows,Zillow real estate listing,74,200,False,5107.5
+ZenRows,Zillow real estate listing,75,200,False,35414.26
+ZenRows,Zillow real estate listing,76,200,False,6908.81
+ZenRows,Zillow real estate listing,77,200,False,13604.35
+ZenRows,Zillow real estate listing,78,200,False,6704.96
+ZenRows,Zillow real estate listing,79,200,False,6765.92
+ZenRows,Zillow real estate listing,80,200,False,7512.55
+ZenRows,Zillow real estate listing,81,200,False,22520.22
+ZenRows,Zillow real estate listing,82,200,False,7899.76
+ZenRows,Zillow real estate listing,83,200,False,4053.35
+ZenRows,Zillow real estate listing,84,200,False,10061.75
+ZenRows,Zillow real estate listing,85,200,False,4706.68
+ZenRows,Zillow real estate listing,86,200,False,16137.57
+ZenRows,Zillow real estate listing,87,200,False,11718.2
+ZenRows,Zillow real estate listing,88,200,False,4879.23
+ZenRows,Zillow real estate listing,89,200,False,7687.19
+ZenRows,Zillow real estate listing,90,200,False,4456.4
+ZenRows,Zillow real estate listing,91,200,False,35635.09
+ZenRows,Zillow real estate listing,92,200,False,19481.12
+ZenRows,Zillow real estate listing,93,200,False,7914.2
+ZenRows,Zillow real estate listing,94,200,False,4512.76
+ZenRows,Zillow real estate listing,95,200,False,7067.61
+ZenRows,Zillow real estate listing,96,200,False,6520.64
+ZenRows,Zillow real estate listing,97,200,False,5361.19
+ZenRows,Zillow real estate listing,98,200,False,4268.77
+ZenRows,Zillow real estate listing,99,200,False,7060.33
+ZenRows,Zillow real estate listing,100,200,False,14505.81
+ZenRows,BBC,1,200,True,2229.01
+ZenRows,BBC,2,200,True,3200.31
+ZenRows,BBC,3,200,True,4015.54
+ZenRows,BBC,4,200,True,2331.53
+ZenRows,BBC,5,200,True,2297.95
+ZenRows,BBC,6,200,True,1835.1
+ZenRows,BBC,7,200,True,2293.95
+ZenRows,BBC,8,200,True,2241.74
+ZenRows,BBC,9,200,True,1956.03
+ZenRows,BBC,10,200,True,1878.44
+ZenRows,BBC,11,200,True,2628.96
+ZenRows,BBC,12,200,True,2619.61
+ZenRows,BBC,13,200,True,2400.46
+ZenRows,BBC,14,200,True,2423.13
+ZenRows,BBC,15,200,True,2130.13
+ZenRows,BBC,16,200,True,3336.58
+ZenRows,BBC,17,200,True,1962.12
+ZenRows,BBC,18,200,True,2065.69
+ZenRows,BBC,19,200,True,2520.24
+ZenRows,BBC,20,200,True,2469.31
+ZenRows,BBC,21,200,True,1862.63
+ZenRows,BBC,22,200,True,2007.9
+ZenRows,BBC,23,200,True,2627.37
+ZenRows,BBC,24,200,True,2353.93
+ZenRows,BBC,25,200,True,2144.71
+ZenRows,BBC,26,200,True,1996.77
+ZenRows,BBC,27,200,True,2045.91
+ZenRows,BBC,28,200,True,2200.2
+ZenRows,BBC,29,200,True,2014.09
+ZenRows,BBC,30,200,True,4315.76
+ZenRows,BBC,31,200,True,2993.94
+ZenRows,BBC,32,200,True,2014.83
+ZenRows,BBC,33,200,True,2125.85
+ZenRows,BBC,34,200,True,1915.37
+ZenRows,BBC,35,200,True,2001.3
+ZenRows,BBC,36,200,True,2173.11
+ZenRows,BBC,37,200,True,1896.18
+ZenRows,BBC,38,200,True,1899.05
+ZenRows,BBC,39,200,True,2564.43
+ZenRows,BBC,40,200,True,2080.66
+ZenRows,BBC,41,200,True,1838.04
+ZenRows,BBC,42,200,True,2071.53
+ZenRows,BBC,43,200,True,2302.68
+ZenRows,BBC,44,200,True,2110.9
+ZenRows,BBC,45,200,True,2686.88
+ZenRows,BBC,46,200,True,2048.95
+ZenRows,BBC,47,200,True,2089.87
+ZenRows,BBC,48,200,True,2053.44
+ZenRows,BBC,49,200,True,2306.46
+ZenRows,BBC,50,200,True,2049.58
+ZenRows,BBC,51,200,True,1846.24
+ZenRows,BBC,52,200,True,1942.81
+ZenRows,BBC,53,200,True,2558.75
+ZenRows,BBC,54,200,True,2257.07
+ZenRows,BBC,55,200,True,1809.02
+ZenRows,BBC,56,200,True,2085.48
+ZenRows,BBC,57,200,True,2103.09
+ZenRows,BBC,58,200,True,1887.71
+ZenRows,BBC,59,200,True,2494.9
+ZenRows,BBC,60,200,True,2051.84
+ZenRows,BBC,61,200,True,1992.52
+ZenRows,BBC,62,200,True,2289.61
+ZenRows,BBC,63,200,True,2117.05
+ZenRows,BBC,64,200,True,2353.49
+ZenRows,BBC,65,200,True,2660.3
+ZenRows,BBC,66,200,True,1824.84
+ZenRows,BBC,67,200,True,2584.55
+ZenRows,BBC,68,200,True,4214.53
+ZenRows,BBC,69,200,True,2033.47
+ZenRows,BBC,70,200,True,2247.87
+ZenRows,BBC,71,200,True,2282.15
+ZenRows,BBC,72,200,True,2459.93
+ZenRows,BBC,73,200,True,4365.24
+ZenRows,BBC,74,200,True,3062.58
+ZenRows,BBC,75,200,True,1840.15
+ZenRows,BBC,76,200,True,1956.46
+ZenRows,BBC,77,200,True,2200.26
+ZenRows,BBC,78,200,True,2437.45
+ZenRows,BBC,79,200,True,1951.08
+ZenRows,BBC,80,200,True,2569.72
+ZenRows,BBC,81,200,True,1963.89
+ZenRows,BBC,82,200,True,2102.32
+ZenRows,BBC,83,200,True,2411.7
+ZenRows,BBC,84,200,True,2263.92
+ZenRows,BBC,85,200,True,1965.7
+ZenRows,BBC,86,200,True,2008.11
+ZenRows,BBC,87,200,True,2094.18
+ZenRows,BBC,88,200,True,2181.55
+ZenRows,BBC,89,200,True,1781.31
+ZenRows,BBC,90,200,True,1696.0
+ZenRows,BBC,91,200,True,1757.36
+ZenRows,BBC,92,200,True,1953.91
+ZenRows,BBC,93,200,True,1980.76
+ZenRows,BBC,94,200,True,2075.3
+ZenRows,BBC,95,200,True,1847.49
+ZenRows,BBC,96,200,True,1996.56
+ZenRows,BBC,97,200,True,1973.13
+ZenRows,BBC,98,200,True,2073.5
+ZenRows,BBC,99,200,True,1839.65
+ZenRows,BBC,100,200,True,2267.05

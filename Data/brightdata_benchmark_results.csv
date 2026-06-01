@@ -1,0 +1,701 @@
+platform,target,request_num,status_code,valid,response_time_ms
+BrightData,Amazon,1,200,True,3692.61
+BrightData,Amazon,2,200,True,3173.84
+BrightData,Amazon,3,200,True,2907.58
+BrightData,Amazon,4,200,True,3841.26
+BrightData,Amazon,5,200,True,5502.61
+BrightData,Amazon,6,200,True,3241.3
+BrightData,Amazon,7,200,True,3124.8
+BrightData,Amazon,8,200,True,6476.35
+BrightData,Amazon,9,200,False,1972.75
+BrightData,Amazon,10,200,False,1568.47
+BrightData,Amazon,11,200,True,2655.18
+BrightData,Amazon,12,200,False,1506.8
+BrightData,Amazon,13,200,False,1716.55
+BrightData,Amazon,14,200,True,3286.16
+BrightData,Amazon,15,200,True,2687.75
+BrightData,Amazon,16,200,True,2764.58
+BrightData,Amazon,17,200,True,2793.03
+BrightData,Amazon,18,200,False,1894.05
+BrightData,Amazon,19,200,False,1746.63
+BrightData,Amazon,20,200,True,2383.39
+BrightData,Amazon,21,200,True,2615.31
+BrightData,Amazon,22,200,True,3063.19
+BrightData,Amazon,23,200,False,1406.66
+BrightData,Amazon,24,200,True,8266.24
+BrightData,Amazon,25,200,False,1688.16
+BrightData,Amazon,26,200,False,3350.5
+BrightData,Amazon,27,200,True,4294.17
+BrightData,Amazon,28,200,True,3808.93
+BrightData,Amazon,29,200,True,7653.39
+BrightData,Amazon,30,200,True,3056.63
+BrightData,Amazon,31,200,False,1621.09
+BrightData,Amazon,32,200,True,3387.82
+BrightData,Amazon,33,200,True,2846.78
+BrightData,Amazon,34,200,True,2988.1
+BrightData,Amazon,35,200,True,4338.4
+BrightData,Amazon,36,200,False,1925.09
+BrightData,Amazon,37,200,False,5212.2
+BrightData,Amazon,38,200,True,2362.79
+BrightData,Amazon,39,200,False,1427.85
+BrightData,Amazon,40,200,True,2446.64
+BrightData,Amazon,41,200,False,1326.93
+BrightData,Amazon,42,200,False,1417.52
+BrightData,Amazon,43,200,True,3460.29
+BrightData,Amazon,44,200,True,4366.87
+BrightData,Amazon,45,200,False,1390.02
+BrightData,Amazon,46,200,False,1518.3
+BrightData,Amazon,47,200,True,2753.78
+BrightData,Amazon,48,200,True,4825.77
+BrightData,Amazon,49,200,False,1499.88
+BrightData,Amazon,50,200,True,2433.88
+BrightData,Amazon,51,200,False,1405.94
+BrightData,Amazon,52,200,True,2203.23
+BrightData,Amazon,53,200,True,2548.4
+BrightData,Amazon,54,200,True,2558.23
+BrightData,Amazon,55,200,True,2829.72
+BrightData,Amazon,56,200,True,3813.83
+BrightData,Amazon,57,200,False,2112.13
+BrightData,Amazon,58,200,True,2930.4
+BrightData,Amazon,59,200,False,1579.93
+BrightData,Amazon,60,200,True,2651.47
+BrightData,Amazon,61,200,False,2342.68
+BrightData,Amazon,62,200,True,3216.76
+BrightData,Amazon,63,200,True,2681.34
+BrightData,Amazon,64,200,True,3464.97
+BrightData,Amazon,65,200,True,5413.14
+BrightData,Amazon,66,200,False,3641.35
+BrightData,Amazon,67,200,True,3224.08
+BrightData,Amazon,68,200,True,3601.99
+BrightData,Amazon,69,200,True,3403.67
+BrightData,Amazon,70,200,False,1474.63
+BrightData,Amazon,71,200,True,2583.26
+BrightData,Amazon,72,200,False,1353.67
+BrightData,Amazon,73,200,True,4381.11
+BrightData,Amazon,74,200,True,2700.65
+BrightData,Amazon,75,200,True,2716.36
+BrightData,Amazon,76,200,True,2285.62
+BrightData,Amazon,77,200,True,5353.69
+BrightData,Amazon,78,200,False,2450.12
+BrightData,Amazon,79,200,False,1956.39
+BrightData,Amazon,80,200,True,2841.06
+BrightData,Amazon,81,200,True,2522.31
+BrightData,Amazon,82,200,True,2667.72
+BrightData,Amazon,83,200,True,2997.74
+BrightData,Amazon,84,200,True,2651.38
+BrightData,Amazon,85,200,False,1489.67
+BrightData,Amazon,86,200,True,2634.61
+BrightData,Amazon,87,200,False,3035.64
+BrightData,Amazon,88,200,True,2308.62
+BrightData,Amazon,89,200,False,1412.08
+BrightData,Amazon,90,200,False,1538.89
+BrightData,Amazon,91,200,True,2542.33
+BrightData,Amazon,92,200,True,3503.41
+BrightData,Amazon,93,200,False,4299.44
+BrightData,Amazon,94,200,True,3147.23
+BrightData,Amazon,95,200,False,1311.82
+BrightData,Amazon,96,200,True,3998.82
+BrightData,Amazon,97,200,True,2945.95
+BrightData,Amazon,98,200,True,2813.06
+BrightData,Amazon,99,200,True,2495.14
+BrightData,Amazon,100,200,False,1533.37
+BrightData,Glassdoor,1,200,False,30287.97
+BrightData,Glassdoor,2,200,False,28092.28
+BrightData,Glassdoor,3,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Glassdoor,4,200,False,58571.05
+BrightData,Glassdoor,5,200,False,53571.37
+BrightData,Glassdoor,6,200,False,14220.53
+BrightData,Glassdoor,7,200,False,36032.07
+BrightData,Glassdoor,8,200,False,12485.28
+BrightData,Glassdoor,9,200,False,19743.33
+BrightData,Glassdoor,10,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Glassdoor,11,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Glassdoor,12,200,False,15644.8
+BrightData,Glassdoor,13,200,False,25592.26
+BrightData,Glassdoor,14,200,False,13887.07
+BrightData,Glassdoor,15,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Glassdoor,16,200,False,32664.95
+BrightData,Glassdoor,17,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Glassdoor,18,200,False,23445.45
+BrightData,Glassdoor,19,200,False,10017.44
+BrightData,Glassdoor,20,200,False,16067.63
+BrightData,Glassdoor,21,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Glassdoor,22,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Glassdoor,23,200,False,26335.06
+BrightData,Glassdoor,24,200,False,17032.64
+BrightData,Glassdoor,25,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Glassdoor,26,200,False,9101.92
+BrightData,Glassdoor,27,200,False,36401.39
+BrightData,Glassdoor,28,200,False,48948.06
+BrightData,Glassdoor,29,200,False,20586.35
+BrightData,Glassdoor,30,200,False,32517.52
+BrightData,Glassdoor,31,200,False,45977.93
+BrightData,Glassdoor,32,200,False,45214.87
+BrightData,Glassdoor,33,200,False,48100.79
+BrightData,Glassdoor,34,200,False,36927.78
+BrightData,Glassdoor,35,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Glassdoor,36,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Glassdoor,37,200,False,22522.08
+BrightData,Glassdoor,38,200,False,13889.35
+BrightData,Glassdoor,39,200,False,47885.58
+BrightData,Glassdoor,40,200,False,23879.67
+BrightData,Glassdoor,41,200,False,51062.98
+BrightData,Glassdoor,42,200,False,45790.61
+BrightData,Glassdoor,43,200,False,15008.14
+BrightData,Glassdoor,44,200,False,35200.19
+BrightData,Glassdoor,45,200,False,54101.52
+BrightData,Glassdoor,46,200,False,22359.91
+BrightData,Glassdoor,47,200,False,42448.4
+BrightData,Glassdoor,48,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Glassdoor,49,200,False,15991.99
+BrightData,Glassdoor,50,200,False,24236.16
+BrightData,Glassdoor,51,200,False,42334.64
+BrightData,Glassdoor,52,200,False,25598.8
+BrightData,Glassdoor,53,200,False,50861.9
+BrightData,Glassdoor,54,200,False,16193.2
+BrightData,Glassdoor,55,200,False,45202.14
+BrightData,Glassdoor,56,200,False,54178.3
+BrightData,Glassdoor,57,200,False,16022.92
+BrightData,Glassdoor,58,200,False,20609.33
+BrightData,Glassdoor,59,200,False,10793.7
+BrightData,Glassdoor,60,200,False,54467.74
+BrightData,Glassdoor,61,200,False,52809.19
+BrightData,Glassdoor,62,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Glassdoor,63,200,False,13497.01
+BrightData,Glassdoor,64,200,False,24108.66
+BrightData,Glassdoor,65,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Glassdoor,66,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Glassdoor,67,200,False,21963.6
+BrightData,Glassdoor,68,200,False,18463.15
+BrightData,Glassdoor,69,200,False,27532.83
+BrightData,Glassdoor,70,200,False,13873.08
+BrightData,Glassdoor,71,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Glassdoor,72,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Glassdoor,73,200,False,45520.43
+BrightData,Glassdoor,74,200,False,37943.8
+BrightData,Glassdoor,75,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Glassdoor,76,200,False,48194.29
+BrightData,Glassdoor,77,200,False,19564.65
+BrightData,Glassdoor,78,200,False,63290.41
+BrightData,Glassdoor,79,200,False,48614.5
+BrightData,Glassdoor,80,200,False,29295.93
+BrightData,Glassdoor,81,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Glassdoor,82,200,False,42146.32
+BrightData,Glassdoor,83,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Glassdoor,84,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Glassdoor,85,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Glassdoor,86,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Glassdoor,87,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Glassdoor,88,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Glassdoor,89,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Glassdoor,90,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Glassdoor,91,200,False,27166.18
+BrightData,Glassdoor,92,200,False,45845.22
+BrightData,Glassdoor,93,200,False,39898.54
+BrightData,Glassdoor,94,200,False,24435.47
+BrightData,Glassdoor,95,200,False,23620.6
+BrightData,Glassdoor,96,200,False,38856.12
+BrightData,Glassdoor,97,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Glassdoor,98,200,False,11040.13
+BrightData,Glassdoor,99,200,False,29890.17
+BrightData,Glassdoor,100,200,False,13616.55
+BrightData,Google,1,200,False,4269.46
+BrightData,Google,2,200,False,4379.09
+BrightData,Google,3,200,False,3127.93
+BrightData,Google,4,200,False,2557.52
+BrightData,Google,5,200,False,3471.44
+BrightData,Google,6,200,False,3407.62
+BrightData,Google,7,200,False,7671.17
+BrightData,Google,8,200,False,2429.37
+BrightData,Google,9,200,False,2391.34
+BrightData,Google,10,200,False,3539.87
+BrightData,Google,11,200,False,7737.48
+BrightData,Google,12,200,False,2464.02
+BrightData,Google,13,200,False,3937.53
+BrightData,Google,14,200,False,2588.16
+BrightData,Google,15,200,False,4421.01
+BrightData,Google,16,200,False,5028.65
+BrightData,Google,17,200,False,5793.85
+BrightData,Google,18,200,False,3735.48
+BrightData,Google,19,200,False,3047.53
+BrightData,Google,20,200,False,2773.44
+BrightData,Google,21,200,False,5036.14
+BrightData,Google,22,200,False,4766.18
+BrightData,Google,23,200,False,6310.12
+BrightData,Google,24,200,False,5217.98
+BrightData,Google,25,200,False,2845.97
+BrightData,Google,26,200,False,3621.91
+BrightData,Google,27,200,False,8126.05
+BrightData,Google,28,200,False,3355.85
+BrightData,Google,29,200,False,2654.97
+BrightData,Google,30,200,False,2447.42
+BrightData,Google,31,200,False,3372.09
+BrightData,Google,32,200,False,3842.05
+BrightData,Google,33,200,False,2486.28
+BrightData,Google,34,200,False,5787.83
+BrightData,Google,35,200,False,4771.35
+BrightData,Google,36,200,False,2397.31
+BrightData,Google,37,200,False,3169.2
+BrightData,Google,38,200,False,21278.33
+BrightData,Google,39,200,False,2796.37
+BrightData,Google,40,200,False,3620.21
+BrightData,Google,41,200,False,2888.63
+BrightData,Google,42,200,False,5239.6
+BrightData,Google,43,200,False,2802.55
+BrightData,Google,44,200,False,6049.58
+BrightData,Google,45,200,False,4447.1
+BrightData,Google,46,200,False,3770.76
+BrightData,Google,47,200,False,3220.54
+BrightData,Google,48,200,False,6857.54
+BrightData,Google,49,200,False,6553.72
+BrightData,Google,50,200,False,18630.57
+BrightData,Google,51,200,False,3816.43
+BrightData,Google,52,200,False,2632.14
+BrightData,Google,53,200,False,6840.23
+BrightData,Google,54,200,False,2649.75
+BrightData,Google,55,200,False,2366.92
+BrightData,Google,56,200,False,5182.98
+BrightData,Google,57,200,False,5836.09
+BrightData,Google,58,200,False,3264.73
+BrightData,Google,59,200,False,5672.23
+BrightData,Google,60,200,False,2324.44
+BrightData,Google,61,200,False,7932.38
+BrightData,Google,62,200,False,4141.02
+BrightData,Google,63,200,False,5447.45
+BrightData,Google,64,200,False,7305.67
+BrightData,Google,65,200,False,3038.01
+BrightData,Google,66,200,False,5458.86
+BrightData,Google,67,200,False,3854.23
+BrightData,Google,68,200,False,2694.18
+BrightData,Google,69,200,False,5213.25
+BrightData,Google,70,200,False,4003.88
+BrightData,Google,71,200,False,3306.14
+BrightData,Google,72,200,False,3733.15
+BrightData,Google,73,200,False,3761.2
+BrightData,Google,74,200,False,2806.69
+BrightData,Google,75,200,False,3788.45
+BrightData,Google,76,200,False,3196.38
+BrightData,Google,77,200,False,3956.1
+BrightData,Google,78,200,False,2808.11
+BrightData,Google,79,200,False,2338.14
+BrightData,Google,80,200,False,3450.6
+BrightData,Google,81,200,False,2971.33
+BrightData,Google,82,200,False,6313.99
+BrightData,Google,83,200,False,3134.09
+BrightData,Google,84,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Google,85,200,False,4386.73
+BrightData,Google,86,200,False,3393.74
+BrightData,Google,87,200,False,2959.87
+BrightData,Google,88,200,False,2666.13
+BrightData,Google,89,200,False,3482.64
+BrightData,Google,90,200,False,8760.16
+BrightData,Google,91,200,False,2665.39
+BrightData,Google,92,200,False,4295.3
+BrightData,Google,93,200,False,3638.1
+BrightData,Google,94,200,False,4081.28
+BrightData,Google,95,200,False,4380.92
+BrightData,Google,96,200,False,3083.23
+BrightData,Google,97,200,False,3481.42
+BrightData,Google,98,200,False,2278.77
+BrightData,Google,99,200,False,5835.42
+BrightData,Google,100,200,False,2558.74
+BrightData,LinkedIn,1,200,False,22276.85
+BrightData,LinkedIn,2,200,False,23371.1
+BrightData,LinkedIn,3,200,False,3974.1
+BrightData,LinkedIn,4,200,False,12072.12
+BrightData,LinkedIn,5,200,False,16335.67
+BrightData,LinkedIn,6,200,False,9895.14
+BrightData,LinkedIn,7,200,False,15963.89
+BrightData,LinkedIn,8,200,False,16018.29
+BrightData,LinkedIn,9,200,False,31884.96
+BrightData,LinkedIn,10,200,False,47048.52
+BrightData,LinkedIn,11,200,False,10728.66
+BrightData,LinkedIn,12,200,False,12855.17
+BrightData,LinkedIn,13,200,False,21929.81
+BrightData,LinkedIn,14,200,False,12134.96
+BrightData,LinkedIn,15,200,False,14133.02
+BrightData,LinkedIn,16,200,False,16335.13
+BrightData,LinkedIn,17,200,False,15745.23
+BrightData,LinkedIn,18,200,False,17304.65
+BrightData,LinkedIn,19,200,False,15086.39
+BrightData,LinkedIn,20,200,False,16567.51
+BrightData,LinkedIn,21,200,False,7064.35
+BrightData,LinkedIn,22,200,False,23527.95
+BrightData,LinkedIn,23,200,False,17263.82
+BrightData,LinkedIn,24,200,False,15816.87
+BrightData,LinkedIn,25,200,False,14524.31
+BrightData,LinkedIn,26,200,False,7271.31
+BrightData,LinkedIn,27,200,False,17586.75
+BrightData,LinkedIn,28,200,False,11435.07
+BrightData,LinkedIn,29,200,False,10506.87
+BrightData,LinkedIn,30,200,False,10649.8
+BrightData,LinkedIn,31,200,False,10642.92
+BrightData,LinkedIn,32,200,False,11570.1
+BrightData,LinkedIn,33,200,False,15881.23
+BrightData,LinkedIn,34,200,False,18453.17
+BrightData,LinkedIn,35,200,False,9765.37
+BrightData,LinkedIn,36,200,False,14307.9
+BrightData,LinkedIn,37,200,False,28025.66
+BrightData,LinkedIn,38,200,False,32899.28
+BrightData,LinkedIn,39,200,False,37652.8
+BrightData,LinkedIn,40,200,False,16672.01
+BrightData,LinkedIn,41,200,False,15572.28
+BrightData,LinkedIn,42,200,False,33075.56
+BrightData,LinkedIn,43,200,False,18139.02
+BrightData,LinkedIn,44,200,False,11561.56
+BrightData,LinkedIn,45,200,False,30243.05
+BrightData,LinkedIn,46,200,False,13076.45
+BrightData,LinkedIn,47,200,False,17745.64
+BrightData,LinkedIn,48,200,False,16621.24
+BrightData,LinkedIn,49,200,False,22772.4
+BrightData,LinkedIn,50,200,False,26961.96
+BrightData,LinkedIn,51,200,False,20565.52
+BrightData,LinkedIn,52,200,False,23314.1
+BrightData,LinkedIn,53,200,False,15237.65
+BrightData,LinkedIn,54,200,False,15282.56
+BrightData,LinkedIn,55,200,False,9916.57
+BrightData,LinkedIn,56,200,False,23203.67
+BrightData,LinkedIn,57,200,False,27862.03
+BrightData,LinkedIn,58,200,False,31980.65
+BrightData,LinkedIn,59,200,False,25827.19
+BrightData,LinkedIn,60,200,False,10511.1
+BrightData,LinkedIn,61,200,False,15100.46
+BrightData,LinkedIn,62,200,False,26507.11
+BrightData,LinkedIn,63,200,False,17671.84
+BrightData,LinkedIn,64,200,False,12126.92
+BrightData,LinkedIn,65,200,False,13803.08
+BrightData,LinkedIn,66,200,False,20583.21
+BrightData,LinkedIn,67,200,False,23308.71
+BrightData,LinkedIn,68,200,False,16001.13
+BrightData,LinkedIn,69,200,False,16501.13
+BrightData,LinkedIn,70,200,False,13489.45
+BrightData,LinkedIn,71,200,False,17333.76
+BrightData,LinkedIn,72,200,False,31824.52
+BrightData,LinkedIn,73,200,False,18228.49
+BrightData,LinkedIn,74,200,False,20969.38
+BrightData,LinkedIn,75,200,False,18139.42
+BrightData,LinkedIn,76,200,False,12357.15
+BrightData,LinkedIn,77,200,False,10104.42
+BrightData,LinkedIn,78,200,False,20724.36
+BrightData,LinkedIn,79,200,False,17043.83
+BrightData,LinkedIn,80,200,False,22436.74
+BrightData,LinkedIn,81,200,False,43270.98
+BrightData,LinkedIn,82,200,False,15907.57
+BrightData,LinkedIn,83,200,False,17516.53
+BrightData,LinkedIn,84,200,False,37932.43
+BrightData,LinkedIn,85,200,False,14650.94
+BrightData,LinkedIn,86,200,False,11647.43
+BrightData,LinkedIn,87,200,False,13174.74
+BrightData,LinkedIn,88,200,False,11667.14
+BrightData,LinkedIn,89,200,False,12541.63
+BrightData,LinkedIn,90,200,False,14348.88
+BrightData,LinkedIn,91,200,False,39281.18
+BrightData,LinkedIn,92,200,False,10191.51
+BrightData,LinkedIn,93,200,False,25189.16
+BrightData,LinkedIn,94,200,False,13784.1
+BrightData,LinkedIn,95,200,False,24374.24
+BrightData,LinkedIn,96,200,False,6934.46
+BrightData,LinkedIn,97,200,False,35646.76
+BrightData,LinkedIn,98,200,False,13137.36
+BrightData,LinkedIn,99,200,False,26653.59
+BrightData,LinkedIn,100,200,False,17791.7
+BrightData,Mid-sized e-commerce site behind Cloudflare,1,200,True,24027.72
+BrightData,Mid-sized e-commerce site behind Cloudflare,2,200,True,23017.75
+BrightData,Mid-sized e-commerce site behind Cloudflare,3,200,True,2760.33
+BrightData,Mid-sized e-commerce site behind Cloudflare,4,200,True,3609.09
+BrightData,Mid-sized e-commerce site behind Cloudflare,5,200,True,3177.36
+BrightData,Mid-sized e-commerce site behind Cloudflare,6,200,True,3067.64
+BrightData,Mid-sized e-commerce site behind Cloudflare,7,200,True,42143.03
+BrightData,Mid-sized e-commerce site behind Cloudflare,8,200,True,4058.29
+BrightData,Mid-sized e-commerce site behind Cloudflare,9,200,True,5537.84
+BrightData,Mid-sized e-commerce site behind Cloudflare,10,200,True,32608.39
+BrightData,Mid-sized e-commerce site behind Cloudflare,11,200,True,18010.64
+BrightData,Mid-sized e-commerce site behind Cloudflare,12,200,True,5709.5
+BrightData,Mid-sized e-commerce site behind Cloudflare,13,200,True,8705.76
+BrightData,Mid-sized e-commerce site behind Cloudflare,14,200,True,19096.22
+BrightData,Mid-sized e-commerce site behind Cloudflare,15,200,True,13848.22
+BrightData,Mid-sized e-commerce site behind Cloudflare,16,200,True,5628.79
+BrightData,Mid-sized e-commerce site behind Cloudflare,17,200,True,11474.16
+BrightData,Mid-sized e-commerce site behind Cloudflare,18,200,True,19682.25
+BrightData,Mid-sized e-commerce site behind Cloudflare,19,200,True,19828.42
+BrightData,Mid-sized e-commerce site behind Cloudflare,20,200,True,4048.59
+BrightData,Mid-sized e-commerce site behind Cloudflare,21,200,True,3686.92
+BrightData,Mid-sized e-commerce site behind Cloudflare,22,200,True,19409.64
+BrightData,Mid-sized e-commerce site behind Cloudflare,23,200,True,3474.09
+BrightData,Mid-sized e-commerce site behind Cloudflare,24,200,True,4882.84
+BrightData,Mid-sized e-commerce site behind Cloudflare,25,200,True,11674.38
+BrightData,Mid-sized e-commerce site behind Cloudflare,26,200,True,12063.16
+BrightData,Mid-sized e-commerce site behind Cloudflare,27,200,True,2686.12
+BrightData,Mid-sized e-commerce site behind Cloudflare,28,200,True,3689.14
+BrightData,Mid-sized e-commerce site behind Cloudflare,29,200,True,9188.29
+BrightData,Mid-sized e-commerce site behind Cloudflare,30,200,True,5061.18
+BrightData,Mid-sized e-commerce site behind Cloudflare,31,200,True,11052.99
+BrightData,Mid-sized e-commerce site behind Cloudflare,32,200,True,7242.07
+BrightData,Mid-sized e-commerce site behind Cloudflare,33,200,True,3739.41
+BrightData,Mid-sized e-commerce site behind Cloudflare,34,200,True,2730.55
+BrightData,Mid-sized e-commerce site behind Cloudflare,35,200,True,3334.69
+BrightData,Mid-sized e-commerce site behind Cloudflare,36,200,True,3329.39
+BrightData,Mid-sized e-commerce site behind Cloudflare,37,200,True,4485.38
+BrightData,Mid-sized e-commerce site behind Cloudflare,38,200,True,6020.5
+BrightData,Mid-sized e-commerce site behind Cloudflare,39,200,True,4821.59
+BrightData,Mid-sized e-commerce site behind Cloudflare,40,200,True,5476.06
+BrightData,Mid-sized e-commerce site behind Cloudflare,41,200,True,4672.92
+BrightData,Mid-sized e-commerce site behind Cloudflare,42,200,True,5271.34
+BrightData,Mid-sized e-commerce site behind Cloudflare,43,200,True,2804.36
+BrightData,Mid-sized e-commerce site behind Cloudflare,44,200,True,2432.08
+BrightData,Mid-sized e-commerce site behind Cloudflare,45,200,True,2477.86
+BrightData,Mid-sized e-commerce site behind Cloudflare,46,200,True,3015.31
+BrightData,Mid-sized e-commerce site behind Cloudflare,47,200,True,4218.65
+BrightData,Mid-sized e-commerce site behind Cloudflare,48,200,True,2766.83
+BrightData,Mid-sized e-commerce site behind Cloudflare,49,200,True,3486.45
+BrightData,Mid-sized e-commerce site behind Cloudflare,50,200,True,5684.72
+BrightData,Mid-sized e-commerce site behind Cloudflare,51,200,True,3630.75
+BrightData,Mid-sized e-commerce site behind Cloudflare,52,200,True,5477.54
+BrightData,Mid-sized e-commerce site behind Cloudflare,53,200,True,4982.75
+BrightData,Mid-sized e-commerce site behind Cloudflare,54,200,True,6930.66
+BrightData,Mid-sized e-commerce site behind Cloudflare,55,200,True,5514.11
+BrightData,Mid-sized e-commerce site behind Cloudflare,56,200,True,6068.16
+BrightData,Mid-sized e-commerce site behind Cloudflare,57,200,True,3961.98
+BrightData,Mid-sized e-commerce site behind Cloudflare,58,200,True,6611.72
+BrightData,Mid-sized e-commerce site behind Cloudflare,59,200,True,4458.26
+BrightData,Mid-sized e-commerce site behind Cloudflare,60,200,True,5270.63
+BrightData,Mid-sized e-commerce site behind Cloudflare,61,200,True,4915.24
+BrightData,Mid-sized e-commerce site behind Cloudflare,62,200,True,5611.38
+BrightData,Mid-sized e-commerce site behind Cloudflare,63,200,True,3166.16
+BrightData,Mid-sized e-commerce site behind Cloudflare,64,200,True,3120.56
+BrightData,Mid-sized e-commerce site behind Cloudflare,65,200,True,4114.02
+BrightData,Mid-sized e-commerce site behind Cloudflare,66,200,True,3667.04
+BrightData,Mid-sized e-commerce site behind Cloudflare,67,200,True,2737.4
+BrightData,Mid-sized e-commerce site behind Cloudflare,68,200,True,5455.29
+BrightData,Mid-sized e-commerce site behind Cloudflare,69,200,True,2530.21
+BrightData,Mid-sized e-commerce site behind Cloudflare,70,200,True,3244.7
+BrightData,Mid-sized e-commerce site behind Cloudflare,71,200,True,4413.81
+BrightData,Mid-sized e-commerce site behind Cloudflare,72,200,True,4135.54
+BrightData,Mid-sized e-commerce site behind Cloudflare,73,200,True,3742.83
+BrightData,Mid-sized e-commerce site behind Cloudflare,74,200,True,3851.02
+BrightData,Mid-sized e-commerce site behind Cloudflare,75,200,True,3661.91
+BrightData,Mid-sized e-commerce site behind Cloudflare,76,200,True,4776.69
+BrightData,Mid-sized e-commerce site behind Cloudflare,77,200,True,3474.45
+BrightData,Mid-sized e-commerce site behind Cloudflare,78,200,True,2691.01
+BrightData,Mid-sized e-commerce site behind Cloudflare,79,200,True,3388.9
+BrightData,Mid-sized e-commerce site behind Cloudflare,80,200,True,3545.25
+BrightData,Mid-sized e-commerce site behind Cloudflare,81,200,True,2696.58
+BrightData,Mid-sized e-commerce site behind Cloudflare,82,200,True,2949.32
+BrightData,Mid-sized e-commerce site behind Cloudflare,83,200,True,4398.15
+BrightData,Mid-sized e-commerce site behind Cloudflare,84,200,True,3401.12
+BrightData,Mid-sized e-commerce site behind Cloudflare,85,200,True,2419.32
+BrightData,Mid-sized e-commerce site behind Cloudflare,86,200,True,2889.67
+BrightData,Mid-sized e-commerce site behind Cloudflare,87,200,True,3194.45
+BrightData,Mid-sized e-commerce site behind Cloudflare,88,200,True,2826.39
+BrightData,Mid-sized e-commerce site behind Cloudflare,89,200,True,2535.52
+BrightData,Mid-sized e-commerce site behind Cloudflare,90,200,True,2174.7
+BrightData,Mid-sized e-commerce site behind Cloudflare,91,200,True,2700.44
+BrightData,Mid-sized e-commerce site behind Cloudflare,92,200,True,3875.84
+BrightData,Mid-sized e-commerce site behind Cloudflare,93,200,True,3646.69
+BrightData,Mid-sized e-commerce site behind Cloudflare,94,200,True,2591.84
+BrightData,Mid-sized e-commerce site behind Cloudflare,95,200,True,2467.55
+BrightData,Mid-sized e-commerce site behind Cloudflare,96,200,True,3775.69
+BrightData,Mid-sized e-commerce site behind Cloudflare,97,200,True,3753.23
+BrightData,Mid-sized e-commerce site behind Cloudflare,98,200,True,2970.92
+BrightData,Mid-sized e-commerce site behind Cloudflare,99,200,True,2630.0
+BrightData,Mid-sized e-commerce site behind Cloudflare,100,200,True,2274.12
+BrightData,Zillow real estate listing,1,200,False,3917.4
+BrightData,Zillow real estate listing,2,200,False,3487.32
+BrightData,Zillow real estate listing,3,200,False,4017.52
+BrightData,Zillow real estate listing,4,200,False,4324.06
+BrightData,Zillow real estate listing,5,200,False,4139.24
+BrightData,Zillow real estate listing,6,200,False,15996.31
+BrightData,Zillow real estate listing,7,200,False,22370.07
+BrightData,Zillow real estate listing,8,200,False,3827.3
+BrightData,Zillow real estate listing,9,200,False,3244.82
+BrightData,Zillow real estate listing,10,200,False,15305.74
+BrightData,Zillow real estate listing,11,200,False,22407.45
+BrightData,Zillow real estate listing,12,200,False,8551.05
+BrightData,Zillow real estate listing,13,200,False,33783.67
+BrightData,Zillow real estate listing,14,200,False,4811.32
+BrightData,Zillow real estate listing,15,200,False,17436.05
+BrightData,Zillow real estate listing,16,200,False,14579.9
+BrightData,Zillow real estate listing,17,200,False,35641.99
+BrightData,Zillow real estate listing,18,200,False,3365.44
+BrightData,Zillow real estate listing,19,200,False,2802.81
+BrightData,Zillow real estate listing,20,200,False,28228.06
+BrightData,Zillow real estate listing,21,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Zillow real estate listing,22,200,False,27489.57
+BrightData,Zillow real estate listing,23,200,False,20691.01
+BrightData,Zillow real estate listing,24,200,False,6510.82
+BrightData,Zillow real estate listing,25,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Zillow real estate listing,26,200,False,6279.51
+BrightData,Zillow real estate listing,27,200,False,23188.43
+BrightData,Zillow real estate listing,28,200,False,24827.76
+BrightData,Zillow real estate listing,29,200,False,4194.86
+BrightData,Zillow real estate listing,30,200,False,49094.87
+BrightData,Zillow real estate listing,31,200,False,3588.0
+BrightData,Zillow real estate listing,32,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Zillow real estate listing,33,200,False,3323.91
+BrightData,Zillow real estate listing,34,200,False,15632.42
+BrightData,Zillow real estate listing,35,200,False,4062.52
+BrightData,Zillow real estate listing,36,200,False,3097.09
+BrightData,Zillow real estate listing,37,200,False,3233.25
+BrightData,Zillow real estate listing,38,200,False,21983.24
+BrightData,Zillow real estate listing,39,200,False,19732.71
+BrightData,Zillow real estate listing,40,200,False,5771.42
+BrightData,Zillow real estate listing,41,200,False,6094.0
+BrightData,Zillow real estate listing,42,200,False,6073.09
+BrightData,Zillow real estate listing,43,200,False,30488.25
+BrightData,Zillow real estate listing,44,200,False,46229.75
+BrightData,Zillow real estate listing,45,200,False,12716.38
+BrightData,Zillow real estate listing,46,200,False,3178.1
+BrightData,Zillow real estate listing,47,200,False,54810.2
+BrightData,Zillow real estate listing,48,200,False,6353.39
+BrightData,Zillow real estate listing,49,200,False,5084.61
+BrightData,Zillow real estate listing,50,200,False,3054.23
+BrightData,Zillow real estate listing,51,200,False,3525.39
+BrightData,Zillow real estate listing,52,200,False,3894.33
+BrightData,Zillow real estate listing,53,200,False,5120.27
+BrightData,Zillow real estate listing,54,200,False,20359.14
+BrightData,Zillow real estate listing,55,200,False,4592.04
+BrightData,Zillow real estate listing,56,200,False,3368.33
+BrightData,Zillow real estate listing,57,200,False,4652.67
+BrightData,Zillow real estate listing,58,200,False,3300.94
+BrightData,Zillow real estate listing,59,200,False,3853.17
+BrightData,Zillow real estate listing,60,200,False,2951.44
+BrightData,Zillow real estate listing,61,200,False,31661.82
+BrightData,Zillow real estate listing,62,200,False,6127.31
+BrightData,Zillow real estate listing,63,200,False,4225.7
+BrightData,Zillow real estate listing,64,200,False,7745.76
+BrightData,Zillow real estate listing,65,200,False,28644.22
+BrightData,Zillow real estate listing,66,200,False,60477.82
+BrightData,Zillow real estate listing,67,200,False,18177.3
+BrightData,Zillow real estate listing,68,200,False,7088.4
+BrightData,Zillow real estate listing,69,200,False,12942.66
+BrightData,Zillow real estate listing,70,200,False,36692.26
+BrightData,Zillow real estate listing,71,200,False,26359.94
+BrightData,Zillow real estate listing,72,200,False,3586.98
+BrightData,Zillow real estate listing,73,200,False,4882.34
+BrightData,Zillow real estate listing,74,200,False,4622.34
+BrightData,Zillow real estate listing,75,200,False,4695.15
+BrightData,Zillow real estate listing,76,200,False,17465.52
+BrightData,Zillow real estate listing,77,200,False,4592.74
+BrightData,Zillow real estate listing,78,200,False,14216.9
+BrightData,Zillow real estate listing,79,200,False,20823.24
+BrightData,Zillow real estate listing,80,200,False,39735.21
+BrightData,Zillow real estate listing,81,200,False,3847.4
+BrightData,Zillow real estate listing,82,200,False,41542.19
+BrightData,Zillow real estate listing,83,200,False,5785.16
+BrightData,Zillow real estate listing,84,200,False,4465.0
+BrightData,Zillow real estate listing,85,200,False,7119.31
+BrightData,Zillow real estate listing,86,200,False,4065.05
+BrightData,Zillow real estate listing,87,200,False,16069.57
+BrightData,Zillow real estate listing,88,200,False,8715.84
+BrightData,Zillow real estate listing,89,200,False,4790.48
+BrightData,Zillow real estate listing,90,ERROR: <class 'requests.exceptions.ReadTimeout'>,False,0
+BrightData,Zillow real estate listing,91,200,False,4808.25
+BrightData,Zillow real estate listing,92,502,False,4222.76
+BrightData,Zillow real estate listing,93,200,False,4276.28
+BrightData,Zillow real estate listing,94,200,False,25517.76
+BrightData,Zillow real estate listing,95,200,False,27491.89
+BrightData,Zillow real estate listing,96,200,False,25961.34
+BrightData,Zillow real estate listing,97,200,False,3695.83
+BrightData,Zillow real estate listing,98,200,False,4946.51
+BrightData,Zillow real estate listing,99,200,False,4674.27
+BrightData,Zillow real estate listing,100,200,False,8115.64
+BrightData,BBC,1,200,True,3078.06
+BrightData,BBC,2,200,True,5019.74
+BrightData,BBC,3,200,True,5336.77
+BrightData,BBC,4,200,True,6816.36
+BrightData,BBC,5,200,True,3680.03
+BrightData,BBC,6,200,True,3876.77
+BrightData,BBC,7,200,True,2820.98
+BrightData,BBC,8,200,True,3443.9
+BrightData,BBC,9,200,True,3566.5
+BrightData,BBC,10,200,True,6663.73
+BrightData,BBC,11,200,True,6813.6
+BrightData,BBC,12,200,True,4160.07
+BrightData,BBC,13,200,True,3803.3
+BrightData,BBC,14,200,True,2822.55
+BrightData,BBC,15,200,True,3136.07
+BrightData,BBC,16,200,True,5212.41
+BrightData,BBC,17,200,True,2997.34
+BrightData,BBC,18,200,True,3296.43
+BrightData,BBC,19,200,True,2268.35
+BrightData,BBC,20,200,True,2208.23
+BrightData,BBC,21,200,True,2685.53
+BrightData,BBC,22,200,True,2110.19
+BrightData,BBC,23,200,True,2532.16
+BrightData,BBC,24,200,True,4062.05
+BrightData,BBC,25,200,True,4602.58
+BrightData,BBC,26,200,True,2921.22
+BrightData,BBC,27,200,True,3494.52
+BrightData,BBC,28,200,True,2241.3
+BrightData,BBC,29,200,True,3541.5
+BrightData,BBC,30,200,True,2899.35
+BrightData,BBC,31,200,True,3362.78
+BrightData,BBC,32,200,True,2447.18
+BrightData,BBC,33,200,True,3700.21
+BrightData,BBC,34,200,True,3009.82
+BrightData,BBC,35,200,True,3166.98
+BrightData,BBC,36,200,True,4070.66
+BrightData,BBC,37,200,True,4388.68
+BrightData,BBC,38,200,True,3039.96
+BrightData,BBC,39,200,True,2828.85
+BrightData,BBC,40,200,True,2888.91
+BrightData,BBC,41,200,True,2401.92
+BrightData,BBC,42,200,True,5522.58
+BrightData,BBC,43,200,True,2395.03
+BrightData,BBC,44,200,True,2900.92
+BrightData,BBC,45,200,True,3772.94
+BrightData,BBC,46,200,True,2686.96
+BrightData,BBC,47,200,True,3081.09
+BrightData,BBC,48,200,True,3131.09
+BrightData,BBC,49,200,True,3238.25
+BrightData,BBC,50,200,True,2395.31
+BrightData,BBC,51,200,True,2535.92
+BrightData,BBC,52,200,True,3006.78
+BrightData,BBC,53,200,True,2382.58
+BrightData,BBC,54,200,True,2080.04
+BrightData,BBC,55,200,True,3192.15
+BrightData,BBC,56,200,True,2186.16
+BrightData,BBC,57,200,True,3260.45
+BrightData,BBC,58,200,True,5390.34
+BrightData,BBC,59,200,True,2501.59
+BrightData,BBC,60,200,True,2405.77
+BrightData,BBC,61,200,True,2683.02
+BrightData,BBC,62,200,True,2676.51
+BrightData,BBC,63,200,True,3818.95
+BrightData,BBC,64,200,True,2470.85
+BrightData,BBC,65,200,True,2649.73
+BrightData,BBC,66,200,True,3716.73
+BrightData,BBC,67,200,True,2658.34
+BrightData,BBC,68,200,True,2189.31
+BrightData,BBC,69,200,True,2290.64
+BrightData,BBC,70,200,True,2584.7
+BrightData,BBC,71,200,True,2839.08
+BrightData,BBC,72,200,True,5937.97
+BrightData,BBC,73,200,True,4198.12
+BrightData,BBC,74,200,True,4341.88
+BrightData,BBC,75,200,True,7246.71
+BrightData,BBC,76,200,True,5862.78
+BrightData,BBC,77,200,True,3259.96
+BrightData,BBC,78,200,True,3405.29
+BrightData,BBC,79,200,True,4987.57
+BrightData,BBC,80,200,True,6502.37
+BrightData,BBC,81,200,True,3744.83
+BrightData,BBC,82,200,True,3932.73
+BrightData,BBC,83,200,True,3076.41
+BrightData,BBC,84,200,True,7527.24
+BrightData,BBC,85,200,True,5176.49
+BrightData,BBC,86,200,True,6443.32
+BrightData,BBC,87,200,True,5090.55
+BrightData,BBC,88,200,True,5356.5
+BrightData,BBC,89,200,True,10057.61
+BrightData,BBC,90,200,True,5517.82
+BrightData,BBC,91,200,True,3489.81
+BrightData,BBC,92,200,True,2569.17
+BrightData,BBC,93,200,True,6242.56
+BrightData,BBC,94,200,True,2062.4
+BrightData,BBC,95,200,True,3248.99
+BrightData,BBC,96,200,True,26558.87
+BrightData,BBC,97,200,True,21525.97
+BrightData,BBC,98,200,True,13662.88
+BrightData,BBC,99,200,True,2336.39
+BrightData,BBC,100,200,True,2412.67

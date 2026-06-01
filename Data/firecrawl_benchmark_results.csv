@@ -1,0 +1,701 @@
+platform,target,request_num,status_code,valid,response_time_ms
+Firecrawl,Amazon,1,200,True,2271.56
+Firecrawl,Amazon,2,200,True,2129.73
+Firecrawl,Amazon,3,200,True,2465.7
+Firecrawl,Amazon,4,200,True,2139.14
+Firecrawl,Amazon,5,200,True,2102.57
+Firecrawl,Amazon,6,200,True,2131.17
+Firecrawl,Amazon,7,200,True,2018.02
+Firecrawl,Amazon,8,200,True,2070.79
+Firecrawl,Amazon,9,200,True,1991.38
+Firecrawl,Amazon,10,200,True,3574.14
+Firecrawl,Amazon,11,200,True,2510.54
+Firecrawl,Amazon,12,200,True,1957.69
+Firecrawl,Amazon,13,200,True,2010.23
+Firecrawl,Amazon,14,200,True,2226.07
+Firecrawl,Amazon,15,200,True,2096.5
+Firecrawl,Amazon,16,200,True,2623.47
+Firecrawl,Amazon,17,200,True,2058.38
+Firecrawl,Amazon,18,200,True,2212.96
+Firecrawl,Amazon,19,200,True,2300.68
+Firecrawl,Amazon,20,200,True,2154.31
+Firecrawl,Amazon,21,200,True,2012.55
+Firecrawl,Amazon,22,200,True,2037.29
+Firecrawl,Amazon,23,200,True,2140.77
+Firecrawl,Amazon,24,200,True,2053.4
+Firecrawl,Amazon,25,200,True,1946.57
+Firecrawl,Amazon,26,200,True,2024.55
+Firecrawl,Amazon,27,200,True,2049.43
+Firecrawl,Amazon,28,200,True,2072.96
+Firecrawl,Amazon,29,200,True,2075.14
+Firecrawl,Amazon,30,200,True,2151.41
+Firecrawl,Amazon,31,200,True,2120.31
+Firecrawl,Amazon,32,200,True,2187.94
+Firecrawl,Amazon,33,200,True,2002.45
+Firecrawl,Amazon,34,200,True,2080.94
+Firecrawl,Amazon,35,200,True,2069.07
+Firecrawl,Amazon,36,200,True,1981.61
+Firecrawl,Amazon,37,200,True,2079.87
+Firecrawl,Amazon,38,200,True,2062.33
+Firecrawl,Amazon,39,200,True,2024.85
+Firecrawl,Amazon,40,200,True,1953.48
+Firecrawl,Amazon,41,200,True,1898.85
+Firecrawl,Amazon,42,200,True,2033.43
+Firecrawl,Amazon,43,200,True,2071.87
+Firecrawl,Amazon,44,200,True,2387.79
+Firecrawl,Amazon,45,200,True,2186.08
+Firecrawl,Amazon,46,200,True,1982.14
+Firecrawl,Amazon,47,200,True,2286.92
+Firecrawl,Amazon,48,200,True,1984.46
+Firecrawl,Amazon,49,200,True,2119.0
+Firecrawl,Amazon,50,200,True,2280.68
+Firecrawl,Amazon,51,200,True,2156.0
+Firecrawl,Amazon,52,200,True,1964.33
+Firecrawl,Amazon,53,200,True,2065.21
+Firecrawl,Amazon,54,200,True,2129.4
+Firecrawl,Amazon,55,200,True,2135.83
+Firecrawl,Amazon,56,200,True,2104.04
+Firecrawl,Amazon,57,200,True,2068.68
+Firecrawl,Amazon,58,200,True,2019.37
+Firecrawl,Amazon,59,200,True,2099.09
+Firecrawl,Amazon,60,200,True,2171.18
+Firecrawl,Amazon,61,200,True,2033.67
+Firecrawl,Amazon,62,200,True,2066.44
+Firecrawl,Amazon,63,200,True,2191.44
+Firecrawl,Amazon,64,200,True,1965.63
+Firecrawl,Amazon,65,200,True,2038.03
+Firecrawl,Amazon,66,200,True,2136.65
+Firecrawl,Amazon,67,200,True,1964.03
+Firecrawl,Amazon,68,200,True,2061.19
+Firecrawl,Amazon,69,200,True,2152.2
+Firecrawl,Amazon,70,200,True,2144.92
+Firecrawl,Amazon,71,200,True,2215.01
+Firecrawl,Amazon,72,200,True,2129.54
+Firecrawl,Amazon,73,200,True,2126.11
+Firecrawl,Amazon,74,200,True,2152.69
+Firecrawl,Amazon,75,200,True,2033.87
+Firecrawl,Amazon,76,200,True,2067.85
+Firecrawl,Amazon,77,200,True,2007.23
+Firecrawl,Amazon,78,200,True,1988.41
+Firecrawl,Amazon,79,200,True,1958.41
+Firecrawl,Amazon,80,200,True,1936.94
+Firecrawl,Amazon,81,200,True,2152.9
+Firecrawl,Amazon,82,200,True,1951.45
+Firecrawl,Amazon,83,200,True,1935.42
+Firecrawl,Amazon,84,200,True,2198.82
+Firecrawl,Amazon,85,200,True,2247.36
+Firecrawl,Amazon,86,200,True,2010.35
+Firecrawl,Amazon,87,200,True,1916.67
+Firecrawl,Amazon,88,200,True,2100.65
+Firecrawl,Amazon,89,200,True,1948.78
+Firecrawl,Amazon,90,200,True,2045.81
+Firecrawl,Amazon,91,200,True,2110.8
+Firecrawl,Amazon,92,200,True,2052.35
+Firecrawl,Amazon,93,200,True,1948.17
+Firecrawl,Amazon,94,200,True,1980.28
+Firecrawl,Amazon,95,200,True,1986.67
+Firecrawl,Amazon,96,200,True,2065.25
+Firecrawl,Amazon,97,200,True,2002.99
+Firecrawl,Amazon,98,200,True,2030.83
+Firecrawl,Amazon,99,200,True,2125.71
+Firecrawl,Amazon,100,200,True,2063.36
+Firecrawl,Glassdoor,1,200,True,6607.79
+Firecrawl,Glassdoor,2,200,True,1823.56
+Firecrawl,Glassdoor,3,200,True,1759.3
+Firecrawl,Glassdoor,4,200,True,1856.5
+Firecrawl,Glassdoor,5,200,True,1821.7
+Firecrawl,Glassdoor,6,200,True,1861.41
+Firecrawl,Glassdoor,7,200,True,1762.74
+Firecrawl,Glassdoor,8,200,True,1776.47
+Firecrawl,Glassdoor,9,200,True,1748.46
+Firecrawl,Glassdoor,10,200,True,1849.85
+Firecrawl,Glassdoor,11,200,True,1879.13
+Firecrawl,Glassdoor,12,200,True,1677.9
+Firecrawl,Glassdoor,13,200,True,1735.12
+Firecrawl,Glassdoor,14,200,True,1879.61
+Firecrawl,Glassdoor,15,200,True,1833.24
+Firecrawl,Glassdoor,16,200,True,1759.27
+Firecrawl,Glassdoor,17,200,True,1658.82
+Firecrawl,Glassdoor,18,200,True,1755.65
+Firecrawl,Glassdoor,19,200,True,1804.45
+Firecrawl,Glassdoor,20,200,True,1863.89
+Firecrawl,Glassdoor,21,200,True,1883.08
+Firecrawl,Glassdoor,22,200,True,1768.48
+Firecrawl,Glassdoor,23,200,True,1878.76
+Firecrawl,Glassdoor,24,200,True,1842.0
+Firecrawl,Glassdoor,25,200,True,1733.21
+Firecrawl,Glassdoor,26,200,True,1779.96
+Firecrawl,Glassdoor,27,200,True,1834.1
+Firecrawl,Glassdoor,28,200,True,1754.67
+Firecrawl,Glassdoor,29,200,True,14510.88
+Firecrawl,Glassdoor,30,200,True,1872.71
+Firecrawl,Glassdoor,31,200,True,1806.09
+Firecrawl,Glassdoor,32,200,True,1780.24
+Firecrawl,Glassdoor,33,200,True,1876.06
+Firecrawl,Glassdoor,34,200,True,1774.12
+Firecrawl,Glassdoor,35,200,True,1928.07
+Firecrawl,Glassdoor,36,200,True,2058.47
+Firecrawl,Glassdoor,37,200,True,1805.98
+Firecrawl,Glassdoor,38,200,True,1825.33
+Firecrawl,Glassdoor,39,200,True,1788.04
+Firecrawl,Glassdoor,40,200,True,1967.88
+Firecrawl,Glassdoor,41,200,True,1839.6
+Firecrawl,Glassdoor,42,200,True,1935.27
+Firecrawl,Glassdoor,43,200,True,2072.36
+Firecrawl,Glassdoor,44,200,True,1834.33
+Firecrawl,Glassdoor,45,200,True,2083.15
+Firecrawl,Glassdoor,46,200,True,1868.61
+Firecrawl,Glassdoor,47,200,True,2185.97
+Firecrawl,Glassdoor,48,200,True,1870.59
+Firecrawl,Glassdoor,49,200,True,1895.5
+Firecrawl,Glassdoor,50,200,True,1876.64
+Firecrawl,Glassdoor,51,200,True,1895.06
+Firecrawl,Glassdoor,52,200,True,1959.81
+Firecrawl,Glassdoor,53,200,True,1843.61
+Firecrawl,Glassdoor,54,200,True,1844.41
+Firecrawl,Glassdoor,55,200,True,1748.13
+Firecrawl,Glassdoor,56,200,True,2047.74
+Firecrawl,Glassdoor,57,200,True,1846.02
+Firecrawl,Glassdoor,58,200,True,2130.36
+Firecrawl,Glassdoor,59,200,True,1777.17
+Firecrawl,Glassdoor,60,200,True,2059.39
+Firecrawl,Glassdoor,61,200,True,1950.91
+Firecrawl,Glassdoor,62,200,True,1959.94
+Firecrawl,Glassdoor,63,200,True,1732.82
+Firecrawl,Glassdoor,64,200,True,1731.93
+Firecrawl,Glassdoor,65,200,True,1892.51
+Firecrawl,Glassdoor,66,200,True,1672.03
+Firecrawl,Glassdoor,67,200,True,1744.59
+Firecrawl,Glassdoor,68,200,True,1794.39
+Firecrawl,Glassdoor,69,200,True,2068.65
+Firecrawl,Glassdoor,70,200,True,1728.92
+Firecrawl,Glassdoor,71,200,True,1878.14
+Firecrawl,Glassdoor,72,200,True,1927.61
+Firecrawl,Glassdoor,73,200,True,1852.84
+Firecrawl,Glassdoor,74,200,True,1963.05
+Firecrawl,Glassdoor,75,200,True,1843.39
+Firecrawl,Glassdoor,76,200,True,1848.22
+Firecrawl,Glassdoor,77,200,True,1940.22
+Firecrawl,Glassdoor,78,200,True,1991.8
+Firecrawl,Glassdoor,79,200,True,1782.78
+Firecrawl,Glassdoor,80,200,True,1969.15
+Firecrawl,Glassdoor,81,200,True,1796.26
+Firecrawl,Glassdoor,82,200,True,1820.17
+Firecrawl,Glassdoor,83,200,True,1823.25
+Firecrawl,Glassdoor,84,200,True,1971.24
+Firecrawl,Glassdoor,85,200,True,1731.49
+Firecrawl,Glassdoor,86,200,True,1947.78
+Firecrawl,Glassdoor,87,200,True,2185.66
+Firecrawl,Glassdoor,88,200,True,1858.79
+Firecrawl,Glassdoor,89,200,True,1814.06
+Firecrawl,Glassdoor,90,200,True,1836.84
+Firecrawl,Glassdoor,91,200,True,1980.12
+Firecrawl,Glassdoor,92,200,True,1912.12
+Firecrawl,Glassdoor,93,200,True,2012.99
+Firecrawl,Glassdoor,94,200,True,1835.43
+Firecrawl,Glassdoor,95,200,True,1688.74
+Firecrawl,Glassdoor,96,200,True,1887.07
+Firecrawl,Glassdoor,97,200,True,1859.81
+Firecrawl,Glassdoor,98,200,True,1755.45
+Firecrawl,Glassdoor,99,200,True,1826.57
+Firecrawl,Glassdoor,100,200,True,1934.34
+Firecrawl,Google,1,200,False,4027.96
+Firecrawl,Google,2,200,False,1067.72
+Firecrawl,Google,3,200,False,1336.75
+Firecrawl,Google,4,200,False,1029.77
+Firecrawl,Google,5,200,False,1133.21
+Firecrawl,Google,6,200,False,1105.94
+Firecrawl,Google,7,200,False,1059.69
+Firecrawl,Google,8,200,False,1154.17
+Firecrawl,Google,9,200,False,1118.5
+Firecrawl,Google,10,200,False,1107.31
+Firecrawl,Google,11,200,False,989.81
+Firecrawl,Google,12,200,False,1100.64
+Firecrawl,Google,13,200,False,1236.97
+Firecrawl,Google,14,200,False,1033.99
+Firecrawl,Google,15,200,False,1237.93
+Firecrawl,Google,16,200,False,1236.45
+Firecrawl,Google,17,200,False,935.18
+Firecrawl,Google,18,200,False,922.89
+Firecrawl,Google,19,200,False,1036.57
+Firecrawl,Google,20,200,False,1234.4
+Firecrawl,Google,21,200,False,936.84
+Firecrawl,Google,22,200,False,928.39
+Firecrawl,Google,23,200,False,928.28
+Firecrawl,Google,24,200,False,969.56
+Firecrawl,Google,25,200,False,987.89
+Firecrawl,Google,26,200,False,1237.36
+Firecrawl,Google,27,200,False,1030.49
+Firecrawl,Google,28,200,False,1033.02
+Firecrawl,Google,29,200,False,1114.96
+Firecrawl,Google,30,200,False,919.05
+Firecrawl,Google,31,200,False,1061.44
+Firecrawl,Google,32,200,False,1035.84
+Firecrawl,Google,33,200,False,1338.11
+Firecrawl,Google,34,200,False,1029.4
+Firecrawl,Google,35,200,False,904.84
+Firecrawl,Google,36,200,False,1361.85
+Firecrawl,Google,37,200,False,1037.86
+Firecrawl,Google,38,200,False,1233.84
+Firecrawl,Google,39,200,False,953.9
+Firecrawl,Google,40,200,False,1207.31
+Firecrawl,Google,41,200,False,971.91
+Firecrawl,Google,42,200,False,1098.56
+Firecrawl,Google,43,200,False,937.16
+Firecrawl,Google,44,200,False,924.06
+Firecrawl,Google,45,200,False,931.35
+Firecrawl,Google,46,200,False,930.59
+Firecrawl,Google,47,200,False,1013.72
+Firecrawl,Google,48,200,False,1049.02
+Firecrawl,Google,49,200,False,1000.77
+Firecrawl,Google,50,200,False,968.17
+Firecrawl,Google,51,200,False,1030.74
+Firecrawl,Google,52,200,False,901.59
+Firecrawl,Google,53,200,False,868.93
+Firecrawl,Google,54,200,False,1020.62
+Firecrawl,Google,55,200,False,936.57
+Firecrawl,Google,56,200,False,1116.1
+Firecrawl,Google,57,200,False,919.89
+Firecrawl,Google,58,200,False,1028.23
+Firecrawl,Google,59,200,False,1035.84
+Firecrawl,Google,60,200,False,1234.25
+Firecrawl,Google,61,200,False,1031.34
+Firecrawl,Google,62,200,False,1131.93
+Firecrawl,Google,63,200,False,1037.16
+Firecrawl,Google,64,200,False,1017.41
+Firecrawl,Google,65,200,False,1059.62
+Firecrawl,Google,66,200,False,882.63
+Firecrawl,Google,67,200,False,942.85
+Firecrawl,Google,68,200,False,1165.57
+Firecrawl,Google,69,200,False,996.35
+Firecrawl,Google,70,200,False,965.15
+Firecrawl,Google,71,200,False,993.54
+Firecrawl,Google,72,200,False,1223.51
+Firecrawl,Google,73,200,False,1132.87
+Firecrawl,Google,74,200,False,1075.72
+Firecrawl,Google,75,200,False,982.52
+Firecrawl,Google,76,200,False,939.87
+Firecrawl,Google,77,200,False,1015.54
+Firecrawl,Google,78,200,False,1127.82
+Firecrawl,Google,79,200,False,940.38
+Firecrawl,Google,80,200,False,1023.04
+Firecrawl,Google,81,200,False,1009.86
+Firecrawl,Google,82,200,False,1039.94
+Firecrawl,Google,83,200,False,934.28
+Firecrawl,Google,84,200,False,1023.67
+Firecrawl,Google,85,200,False,1039.1
+Firecrawl,Google,86,200,False,904.13
+Firecrawl,Google,87,200,False,944.15
+Firecrawl,Google,88,200,False,1046.64
+Firecrawl,Google,89,200,False,1107.02
+Firecrawl,Google,90,200,False,1036.81
+Firecrawl,Google,91,200,False,1227.63
+Firecrawl,Google,92,200,False,1136.33
+Firecrawl,Google,93,200,False,923.99
+Firecrawl,Google,94,200,False,1037.64
+Firecrawl,Google,95,200,False,1020.66
+Firecrawl,Google,96,200,False,1136.69
+Firecrawl,Google,97,200,False,1129.8
+Firecrawl,Google,98,200,False,1024.33
+Firecrawl,Google,99,200,False,1065.63
+Firecrawl,Google,100,200,False,994.09
+Firecrawl,LinkedIn,1,403,False,915.16
+Firecrawl,LinkedIn,2,403,False,932.94
+Firecrawl,LinkedIn,3,403,False,848.19
+Firecrawl,LinkedIn,4,403,False,1213.78
+Firecrawl,LinkedIn,5,403,False,936.68
+Firecrawl,LinkedIn,6,403,False,1017.84
+Firecrawl,LinkedIn,7,403,False,844.18
+Firecrawl,LinkedIn,8,403,False,812.2
+Firecrawl,LinkedIn,9,403,False,950.28
+Firecrawl,LinkedIn,10,403,False,815.92
+Firecrawl,LinkedIn,11,403,False,1024.54
+Firecrawl,LinkedIn,12,403,False,833.1
+Firecrawl,LinkedIn,13,403,False,939.79
+Firecrawl,LinkedIn,14,403,False,1113.75
+Firecrawl,LinkedIn,15,403,False,1052.54
+Firecrawl,LinkedIn,16,403,False,903.44
+Firecrawl,LinkedIn,17,403,False,943.16
+Firecrawl,LinkedIn,18,403,False,1016.24
+Firecrawl,LinkedIn,19,403,False,1021.81
+Firecrawl,LinkedIn,20,403,False,934.2
+Firecrawl,LinkedIn,21,403,False,811.55
+Firecrawl,LinkedIn,22,403,False,1012.92
+Firecrawl,LinkedIn,23,403,False,844.77
+Firecrawl,LinkedIn,24,403,False,938.64
+Firecrawl,LinkedIn,25,403,False,824.6
+Firecrawl,LinkedIn,26,403,False,917.6
+Firecrawl,LinkedIn,27,403,False,922.83
+Firecrawl,LinkedIn,28,403,False,1051.53
+Firecrawl,LinkedIn,29,403,False,1000.78
+Firecrawl,LinkedIn,30,403,False,823.44
+Firecrawl,LinkedIn,31,403,False,1125.5
+Firecrawl,LinkedIn,32,403,False,960.92
+Firecrawl,LinkedIn,33,403,False,915.98
+Firecrawl,LinkedIn,34,403,False,802.94
+Firecrawl,LinkedIn,35,403,False,1036.79
+Firecrawl,LinkedIn,36,403,False,973.35
+Firecrawl,LinkedIn,37,403,False,1188.9
+Firecrawl,LinkedIn,38,403,False,1038.2
+Firecrawl,LinkedIn,39,403,False,934.57
+Firecrawl,LinkedIn,40,403,False,1067.79
+Firecrawl,LinkedIn,41,403,False,978.83
+Firecrawl,LinkedIn,42,403,False,853.5
+Firecrawl,LinkedIn,43,403,False,1018.57
+Firecrawl,LinkedIn,44,403,False,938.71
+Firecrawl,LinkedIn,45,403,False,1110.29
+Firecrawl,LinkedIn,46,403,False,1036.68
+Firecrawl,LinkedIn,47,403,False,927.87
+Firecrawl,LinkedIn,48,403,False,817.56
+Firecrawl,LinkedIn,49,403,False,799.89
+Firecrawl,LinkedIn,50,403,False,792.27
+Firecrawl,LinkedIn,51,403,False,1091.97
+Firecrawl,LinkedIn,52,403,False,1044.15
+Firecrawl,LinkedIn,53,403,False,812.2
+Firecrawl,LinkedIn,54,403,False,939.52
+Firecrawl,LinkedIn,55,403,False,921.59
+Firecrawl,LinkedIn,56,403,False,995.08
+Firecrawl,LinkedIn,57,403,False,868.79
+Firecrawl,LinkedIn,58,403,False,1016.58
+Firecrawl,LinkedIn,59,403,False,1023.88
+Firecrawl,LinkedIn,60,403,False,1122.02
+Firecrawl,LinkedIn,61,403,False,922.74
+Firecrawl,LinkedIn,62,403,False,1136.0
+Firecrawl,LinkedIn,63,403,False,820.3
+Firecrawl,LinkedIn,64,403,False,810.57
+Firecrawl,LinkedIn,65,403,False,1144.03
+Firecrawl,LinkedIn,66,403,False,1128.41
+Firecrawl,LinkedIn,67,403,False,834.92
+Firecrawl,LinkedIn,68,403,False,1125.46
+Firecrawl,LinkedIn,69,403,False,933.68
+Firecrawl,LinkedIn,70,403,False,1043.71
+Firecrawl,LinkedIn,71,403,False,1001.33
+Firecrawl,LinkedIn,72,403,False,978.74
+Firecrawl,LinkedIn,73,403,False,1591.84
+Firecrawl,LinkedIn,74,403,False,1128.44
+Firecrawl,LinkedIn,75,403,False,839.62
+Firecrawl,LinkedIn,76,403,False,1019.36
+Firecrawl,LinkedIn,77,403,False,836.56
+Firecrawl,LinkedIn,78,403,False,910.48
+Firecrawl,LinkedIn,79,403,False,1128.9
+Firecrawl,LinkedIn,80,403,False,828.17
+Firecrawl,LinkedIn,81,403,False,944.42
+Firecrawl,LinkedIn,82,403,False,1216.31
+Firecrawl,LinkedIn,83,403,False,1033.77
+Firecrawl,LinkedIn,84,403,False,837.33
+Firecrawl,LinkedIn,85,403,False,909.21
+Firecrawl,LinkedIn,86,403,False,832.0
+Firecrawl,LinkedIn,87,403,False,871.43
+Firecrawl,LinkedIn,88,403,False,980.01
+Firecrawl,LinkedIn,89,403,False,820.8
+Firecrawl,LinkedIn,90,403,False,835.06
+Firecrawl,LinkedIn,91,403,False,826.92
+Firecrawl,LinkedIn,92,403,False,1009.87
+Firecrawl,LinkedIn,93,403,False,799.39
+Firecrawl,LinkedIn,94,403,False,936.82
+Firecrawl,LinkedIn,95,403,False,964.74
+Firecrawl,LinkedIn,96,403,False,832.35
+Firecrawl,LinkedIn,97,403,False,1098.5
+Firecrawl,LinkedIn,98,403,False,833.1
+Firecrawl,LinkedIn,99,403,False,1019.7
+Firecrawl,LinkedIn,100,403,False,842.57
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,1,200,True,1746.95
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,2,200,True,1530.86
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,3,200,True,1565.12
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,4,200,True,1852.08
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,5,200,True,1645.28
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,6,200,True,1584.6
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,7,200,True,1697.93
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,8,200,True,1550.16
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,9,200,True,1657.71
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,10,200,True,1527.92
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,11,200,True,1722.59
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,12,200,True,1883.46
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,13,200,True,1823.71
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,14,200,True,1732.92
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,15,200,True,1776.75
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,16,200,True,1459.01
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,17,200,True,1591.62
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,18,200,True,1776.92
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,19,200,True,1509.54
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,20,200,True,1862.3
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,21,200,True,1682.87
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,22,200,True,1612.3
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,23,200,True,1833.44
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,24,200,True,1759.88
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,25,200,True,1492.45
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,26,200,True,1784.16
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,27,200,True,1485.5
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,28,200,True,1599.48
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,29,200,True,1663.98
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,30,200,True,1489.32
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,31,200,True,1652.01
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,32,200,True,1556.23
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,33,200,True,1764.41
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,34,200,True,1741.42
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,35,200,True,1626.31
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,36,200,True,1556.47
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,37,200,True,1940.08
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,38,200,True,1661.39
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,39,200,True,1551.02
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,40,200,True,1696.54
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,41,200,True,1757.32
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,42,200,True,1632.73
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,43,200,True,1549.59
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,44,200,True,1543.57
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,45,200,True,1584.35
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,46,200,True,1919.21
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,47,200,True,1632.3
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,48,200,True,1568.16
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,49,200,True,1508.49
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,50,200,True,1875.84
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,51,200,True,1618.69
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,52,200,True,1734.04
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,53,200,True,1647.46
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,54,200,True,1537.22
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,55,200,True,1867.83
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,56,200,True,1640.66
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,57,200,True,1760.01
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,58,200,True,1522.88
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,59,200,True,1689.13
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,60,200,True,1877.28
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,61,200,True,1734.63
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,62,200,True,1771.76
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,63,200,True,1635.36
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,64,200,True,1614.17
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,65,200,True,1767.93
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,66,200,True,1841.21
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,67,200,True,1672.74
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,68,200,True,1593.64
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,69,200,True,1644.71
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,70,200,True,1512.5
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,71,200,True,1654.47
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,72,200,True,1685.0
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,73,200,True,1597.48
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,74,200,True,1838.96
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,75,200,True,1779.82
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,76,200,True,1636.68
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,77,200,True,1611.41
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,78,200,True,1530.48
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,79,200,True,1690.05
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,80,200,True,1811.39
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,81,200,True,1751.31
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,82,200,True,1549.35
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,83,200,True,1543.69
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,84,200,True,20072.41
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,85,200,True,1617.07
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,86,200,True,1640.6
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,87,200,True,1893.65
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,88,200,True,1683.06
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,89,200,True,1583.14
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,90,200,True,1514.86
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,91,200,True,1466.67
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,92,200,True,1587.75
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,93,200,True,1753.53
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,94,200,True,1745.95
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,95,200,True,1518.19
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,96,200,True,1663.55
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,97,200,True,1824.57
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,98,200,True,1811.44
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,99,200,True,1908.43
+Firecrawl,Mid-sized e-commerce site behind Cloudflare,100,200,True,1849.0
+Firecrawl,Zillow real estate listing,1,200,True,2887.71
+Firecrawl,Zillow real estate listing,2,200,True,2689.91
+Firecrawl,Zillow real estate listing,3,200,True,2872.15
+Firecrawl,Zillow real estate listing,4,200,True,2904.41
+Firecrawl,Zillow real estate listing,5,200,True,3053.0
+Firecrawl,Zillow real estate listing,6,200,True,2817.0
+Firecrawl,Zillow real estate listing,7,200,True,3133.61
+Firecrawl,Zillow real estate listing,8,200,True,3085.26
+Firecrawl,Zillow real estate listing,9,200,True,2767.24
+Firecrawl,Zillow real estate listing,10,200,True,2876.51
+Firecrawl,Zillow real estate listing,11,502,False,900.85
+Firecrawl,Zillow real estate listing,12,200,True,2890.15
+Firecrawl,Zillow real estate listing,13,200,True,3018.71
+Firecrawl,Zillow real estate listing,14,200,True,2875.49
+Firecrawl,Zillow real estate listing,15,200,True,4257.15
+Firecrawl,Zillow real estate listing,16,200,True,3185.14
+Firecrawl,Zillow real estate listing,17,200,True,3380.22
+Firecrawl,Zillow real estate listing,18,200,True,3306.61
+Firecrawl,Zillow real estate listing,19,200,True,2926.0
+Firecrawl,Zillow real estate listing,20,200,True,2900.07
+Firecrawl,Zillow real estate listing,21,200,True,2852.91
+Firecrawl,Zillow real estate listing,22,200,True,2967.96
+Firecrawl,Zillow real estate listing,23,200,True,3037.93
+Firecrawl,Zillow real estate listing,24,200,True,2866.28
+Firecrawl,Zillow real estate listing,25,200,True,2931.52
+Firecrawl,Zillow real estate listing,26,200,True,3801.98
+Firecrawl,Zillow real estate listing,27,200,True,2996.8
+Firecrawl,Zillow real estate listing,28,200,True,3081.74
+Firecrawl,Zillow real estate listing,29,200,True,2855.46
+Firecrawl,Zillow real estate listing,30,200,True,2814.04
+Firecrawl,Zillow real estate listing,31,200,True,2910.42
+Firecrawl,Zillow real estate listing,32,200,True,2809.37
+Firecrawl,Zillow real estate listing,33,200,True,3112.25
+Firecrawl,Zillow real estate listing,34,200,True,3796.61
+Firecrawl,Zillow real estate listing,35,200,True,3146.79
+Firecrawl,Zillow real estate listing,36,200,True,3111.85
+Firecrawl,Zillow real estate listing,37,200,True,2945.88
+Firecrawl,Zillow real estate listing,38,200,True,3291.29
+Firecrawl,Zillow real estate listing,39,200,True,3331.35
+Firecrawl,Zillow real estate listing,40,200,True,4540.75
+Firecrawl,Zillow real estate listing,41,200,True,3022.71
+Firecrawl,Zillow real estate listing,42,200,True,2751.81
+Firecrawl,Zillow real estate listing,43,200,True,2957.62
+Firecrawl,Zillow real estate listing,44,200,True,2688.44
+Firecrawl,Zillow real estate listing,45,200,True,2884.86
+Firecrawl,Zillow real estate listing,46,200,True,2759.58
+Firecrawl,Zillow real estate listing,47,200,True,2775.11
+Firecrawl,Zillow real estate listing,48,200,True,2871.27
+Firecrawl,Zillow real estate listing,49,200,True,2629.31
+Firecrawl,Zillow real estate listing,50,200,True,5295.51
+Firecrawl,Zillow real estate listing,51,200,True,4094.08
+Firecrawl,Zillow real estate listing,52,200,True,4510.14
+Firecrawl,Zillow real estate listing,53,200,True,2695.25
+Firecrawl,Zillow real estate listing,54,200,True,2886.99
+Firecrawl,Zillow real estate listing,55,200,True,3019.54
+Firecrawl,Zillow real estate listing,56,200,True,2917.21
+Firecrawl,Zillow real estate listing,57,200,True,2902.43
+Firecrawl,Zillow real estate listing,58,502,False,983.08
+Firecrawl,Zillow real estate listing,59,200,True,3010.1
+Firecrawl,Zillow real estate listing,60,200,True,3341.41
+Firecrawl,Zillow real estate listing,61,200,True,2854.13
+Firecrawl,Zillow real estate listing,62,200,True,4564.74
+Firecrawl,Zillow real estate listing,63,200,True,4245.37
+Firecrawl,Zillow real estate listing,64,200,True,2922.14
+Firecrawl,Zillow real estate listing,65,200,True,5427.28
+Firecrawl,Zillow real estate listing,66,200,True,3496.57
+Firecrawl,Zillow real estate listing,67,200,True,3203.08
+Firecrawl,Zillow real estate listing,68,200,True,2916.27
+Firecrawl,Zillow real estate listing,69,200,True,2701.43
+Firecrawl,Zillow real estate listing,70,200,True,2999.89
+Firecrawl,Zillow real estate listing,71,200,True,2963.5
+Firecrawl,Zillow real estate listing,72,200,True,2806.14
+Firecrawl,Zillow real estate listing,73,200,True,3151.44
+Firecrawl,Zillow real estate listing,74,200,True,2965.35
+Firecrawl,Zillow real estate listing,75,200,True,2927.01
+Firecrawl,Zillow real estate listing,76,200,True,3094.27
+Firecrawl,Zillow real estate listing,77,200,True,2780.22
+Firecrawl,Zillow real estate listing,78,200,True,2858.77
+Firecrawl,Zillow real estate listing,79,502,False,886.12
+Firecrawl,Zillow real estate listing,80,200,True,3015.0
+Firecrawl,Zillow real estate listing,81,200,True,3176.89
+Firecrawl,Zillow real estate listing,82,200,True,2861.9
+Firecrawl,Zillow real estate listing,83,200,True,3022.94
+Firecrawl,Zillow real estate listing,84,200,True,5658.49
+Firecrawl,Zillow real estate listing,85,200,True,2860.1
+Firecrawl,Zillow real estate listing,86,200,True,3184.56
+Firecrawl,Zillow real estate listing,87,200,True,2958.53
+Firecrawl,Zillow real estate listing,88,200,True,2910.28
+Firecrawl,Zillow real estate listing,89,200,True,3160.45
+Firecrawl,Zillow real estate listing,90,200,True,2837.94
+Firecrawl,Zillow real estate listing,91,200,True,2917.38
+Firecrawl,Zillow real estate listing,92,200,True,3038.32
+Firecrawl,Zillow real estate listing,93,200,True,2728.68
+Firecrawl,Zillow real estate listing,94,200,True,5853.37
+Firecrawl,Zillow real estate listing,95,200,True,4612.46
+Firecrawl,Zillow real estate listing,96,200,True,5101.01
+Firecrawl,Zillow real estate listing,97,200,True,4099.01
+Firecrawl,Zillow real estate listing,98,200,True,5376.8
+Firecrawl,Zillow real estate listing,99,200,True,2879.85
+Firecrawl,Zillow real estate listing,100,200,True,2953.31
+Firecrawl,BBC,1,200,True,2359.13
+Firecrawl,BBC,2,200,True,2194.34
+Firecrawl,BBC,3,200,True,2643.25
+Firecrawl,BBC,4,200,True,2197.75
+Firecrawl,BBC,5,200,True,2106.63
+Firecrawl,BBC,6,200,True,2254.67
+Firecrawl,BBC,7,200,True,2001.58
+Firecrawl,BBC,8,200,True,2152.05
+Firecrawl,BBC,9,200,True,2649.66
+Firecrawl,BBC,10,200,True,2384.25
+Firecrawl,BBC,11,200,True,2167.43
+Firecrawl,BBC,12,200,True,2206.24
+Firecrawl,BBC,13,200,True,2196.82
+Firecrawl,BBC,14,200,True,2405.58
+Firecrawl,BBC,15,200,True,2152.95
+Firecrawl,BBC,16,200,True,2369.58
+Firecrawl,BBC,17,200,True,2011.99
+Firecrawl,BBC,18,200,True,2071.53
+Firecrawl,BBC,19,200,True,2203.88
+Firecrawl,BBC,20,200,True,2179.14
+Firecrawl,BBC,21,200,True,2627.99
+Firecrawl,BBC,22,200,True,1953.21
+Firecrawl,BBC,23,200,True,2185.79
+Firecrawl,BBC,24,200,True,2135.28
+Firecrawl,BBC,25,200,True,2256.13
+Firecrawl,BBC,26,200,True,2170.3
+Firecrawl,BBC,27,200,True,2224.32
+Firecrawl,BBC,28,200,True,2061.21
+Firecrawl,BBC,29,200,True,2711.97
+Firecrawl,BBC,30,200,True,2476.76
+Firecrawl,BBC,31,200,True,2275.9
+Firecrawl,BBC,32,200,True,2239.19
+Firecrawl,BBC,33,200,True,2133.71
+Firecrawl,BBC,34,200,True,2441.26
+Firecrawl,BBC,35,200,True,2348.78
+Firecrawl,BBC,36,200,True,2074.85
+Firecrawl,BBC,37,200,True,2014.69
+Firecrawl,BBC,38,200,True,3176.94
+Firecrawl,BBC,39,200,True,2211.65
+Firecrawl,BBC,40,200,True,10758.48
+Firecrawl,BBC,41,200,True,2596.03
+Firecrawl,BBC,42,200,True,2635.83
+Firecrawl,BBC,43,200,True,2177.27
+Firecrawl,BBC,44,200,True,2139.91
+Firecrawl,BBC,45,200,True,2151.88
+Firecrawl,BBC,46,200,True,2327.57
+Firecrawl,BBC,47,200,True,2126.41
+Firecrawl,BBC,48,200,True,2487.36
+Firecrawl,BBC,49,200,True,2111.65
+Firecrawl,BBC,50,200,True,2192.94
+Firecrawl,BBC,51,200,True,1963.01
+Firecrawl,BBC,52,200,True,2107.35
+Firecrawl,BBC,53,200,True,2051.5
+Firecrawl,BBC,54,200,True,2239.91
+Firecrawl,BBC,55,200,True,2243.87
+Firecrawl,BBC,56,200,True,2259.53
+Firecrawl,BBC,57,200,True,2203.33
+Firecrawl,BBC,58,200,True,1990.85
+Firecrawl,BBC,59,200,True,2106.21
+Firecrawl,BBC,60,200,True,2304.33
+Firecrawl,BBC,61,200,True,2602.36
+Firecrawl,BBC,62,200,True,2010.37
+Firecrawl,BBC,63,200,True,2191.63
+Firecrawl,BBC,64,200,True,2226.01
+Firecrawl,BBC,65,200,True,2420.37
+Firecrawl,BBC,66,200,True,2165.12
+Firecrawl,BBC,67,200,True,2133.66
+Firecrawl,BBC,68,200,True,2349.58
+Firecrawl,BBC,69,200,True,2019.67
+Firecrawl,BBC,70,200,True,2500.13
+Firecrawl,BBC,71,200,True,2318.84
+Firecrawl,BBC,72,200,True,2071.93
+Firecrawl,BBC,73,200,True,2242.36
+Firecrawl,BBC,74,200,True,3340.45
+Firecrawl,BBC,75,200,True,2719.24
+Firecrawl,BBC,76,200,True,2204.16
+Firecrawl,BBC,77,200,True,1993.46
+Firecrawl,BBC,78,200,True,2123.14
+Firecrawl,BBC,79,200,True,2094.63
+Firecrawl,BBC,80,200,True,2041.29
+Firecrawl,BBC,81,200,True,2285.8
+Firecrawl,BBC,82,200,True,2213.57
+Firecrawl,BBC,83,200,True,2239.44
+Firecrawl,BBC,84,200,True,2071.66
+Firecrawl,BBC,85,200,True,2211.77
+Firecrawl,BBC,86,200,True,2177.8
+Firecrawl,BBC,87,200,True,2434.57
+Firecrawl,BBC,88,200,True,2196.25
+Firecrawl,BBC,89,200,True,2341.92
+Firecrawl,BBC,90,200,True,2566.76
+Firecrawl,BBC,91,200,True,2426.57
+Firecrawl,BBC,92,200,True,2145.76
+Firecrawl,BBC,93,200,True,2354.06
+Firecrawl,BBC,94,200,True,2158.26
+Firecrawl,BBC,95,200,True,2378.96
+Firecrawl,BBC,96,200,True,2216.52
+Firecrawl,BBC,97,200,True,2019.69
+Firecrawl,BBC,98,200,True,2258.97
+Firecrawl,BBC,99,200,True,2426.07
+Firecrawl,BBC,100,200,True,2302.49
